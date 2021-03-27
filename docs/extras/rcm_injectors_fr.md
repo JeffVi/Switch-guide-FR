@@ -1,0 +1,16 @@
+# Les RCM payloads injectors 
+
+Il existe actuellement plusieurs RCM payloads injectors disponibles auprès de plusieurs entreprises et individus différents. Ces appareils suppriment la nécessité d’utiliser un ordinateur ou d'un smartphone lors du piratage d'une Switch non patchée. Chaque injector a ses propres avantages et inconvénients, énumérés ci-dessous:
+
+| Nom | Manufactureur | Jig inclus | Encoche pour insérer un jig | Lancement de payloads standarts (.bin) | Lancement de payloads depuis la SD | Peut injecter différents payloads | Autonomie de la batterie | Temps de rechargement | Prix (USD) | Infos supplémentaires 
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+| [AceNS (Old)](../extras/img/rcm_injectors/AceNS(Old).jpg)        | Ace3DS Team   | ✔️ | ❌ | ✔️ | ❌                | ✔️ | N/A (Capacitors)                | 10 seconds                    | <s>$18.00</s>​ (**Plus disponible**) | **Non recommandé :** Version plus chère de RCMLoader Zero |
+| [AceNS (New)](../extras/img/rcm_injectors/AceNS(New).jpg)        | Ace3DS Team   | ✔️ |️ ✔️ | ✔️ | ❌                | ✔️ | 45mAh LiPo (~1000 injections)   | 1 hour                        | $17.50 | **Non recommandé :** Version plus chère de RCMLoader One |
+| [AceNS Pro](../extras/img/rcm_injectors/AceNSPro.jpg)            | Ace3DS Team   | ✔️ | ✔️ | ✔️ | ✔️ (**Requis**) | ❌ | 45mAh LiPo (~1000 injections)   | 1 hour                        | $42.90 | **Non recommandé :** Version plus chère de RCMLoader One avec mons de fonctionnalités |
+| [DragonInjector](../extras/img/rcm_injectors/DragonInjector.jpg) | MatinatorX    | ✔️ | ✔️ | ✔️ | ✔️ (**Requis**) | ✔️ | 40mAh CR1612 (~4000 injections) | Non-Rechargeable (Replacable) | <s>$30.00</s>​ (**Plus disponible**)  | Rentre dans le port de carte de jeu de la Switch
+| [NS-Atmosphere](../extras/img/rcm_injectors/NS-Atmosphere.jpg)   | Generic       | ✔️ | ✔️ | ❌ | ❌                | ❌ | 150mAh LiPo (>1000 injections)  | >1 hour                       | $13.15 | **Non recommandé :** jig de mauvaise qualité, encombrant, changer de payload demande l'installation d'un programme, pas de support .bin, usage compliqué |
+| [R4S](../extras/img/rcm_injectors/R4S.jpg)                       | R4i-SDHC Team | ✔️ | ❌ | ✔️ | ✔️                | ❌ | 120mAh LiPo (~1000 injections)  | 1 hour                        | $19.99 |
+| [RCMLoader Zero](../extras/img/rcm_injectors/RCMLoaderZero.jpg)  | Xkit          | ✔️ | ❌ | ✔️ | ❌                |️ ✔️ | N/A (Capacitors)                | 10 seconds                    | <s>$5.99</s>​ (**Plus disponible**)  |  
+| [RCMLoader One](../extras/img/rcm_injectors/RCMLoaderOne.jpg)    | Xkit          | ✔️ | ✔️ | ✔️ | ❌                | ✔️ | 45mAh LiPo (~1000 injections)   | 1 hour                        | $9.99  |
+| [SX Gear](../extras/img/rcm_injectors/SXGear.jpg)                | Team Xecuter  | ✔️ | ❌ | ❌ | ✔️ (**Requis**) | ❌ | N/A (Supercapacitors)           | 5-10 seconds                  | $24.95 | **Non recommandé :** pas de support .bin, usage compliqué
+| [SX Pro](../extras/img/rcm_injectors/SXPro.jpg)                  | Team Xecuter  | ✔️ | ❌ | ❌ | ✔️ (**Requis**) | ❌ | N/A (Supercapacitors)           | 5-10 seconds                  | $49.99 | **Non recommandé :** pas de support .bin, usage compliqué

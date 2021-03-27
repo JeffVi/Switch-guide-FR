@@ -1,0 +1,41 @@
+site_name: NH Switch Guide
+theme: slate
+copyright: Copyright &copy; 2021 <a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>, Maintained by the <a href="/switch-guide/about">NH Discord Server</a>.
+site_description: Switch CFW Guide.
+site_author: NH Discord Server.
+
+nav:
+    - Menu: index.md
+    - Guide Utilisateur:
+        - 'Bien démarrer': 'user_guide/getting_started_fr.md'
+        - 'RCM': 'user_guide/rcm_fr.md'  
+        - 'Entrer en RCM': 'user_guide/emummc/entering_rcm_fr.md'
+        - 'Injecter un payload': 'user_guide/emummc/sending_payload_fr.md'      
+        - 'Partitionner la SD': 'user_guide/emummc/partitioning_sd_fr.md'    
+        - 'Préparation de la SD': 'user_guide/emummc/sd_preparation_fr.md'
+        - 'Création emuMMC': 'user_guide/emummc/making_emummc_fr.md'
+        - 'Lancer un CFW': 'user_guide/emummc/launching_cfw_fr.md'
+    - Extras:
+        - 'Bloquer les mises à jour': 'extras/blocking_updates_fr.md'
+        - 'Restaurer un backup de la NAND': 'extras/nandrestore_fr.md'
+        - 'AutoRCM': 'extras/autorcm_fr.md'
+        - 'Dump des Title Keys': 'extras/dumping_title_keys_fr.md'
+        - 'Thèmes customisés': 'extras/theming_fr.md'
+        - 'Gestion des sauvegardes': 'extras/save_management_fr.md'
+        - 'Modder des jeux': 'extras/game_modding_fr.md'       
+        - 'Injecter sous Linux sans sudo': 'extras/adding_udev_fr.md'
+        - 'Afficher les extentions des noms de fichiers (Windows)': 'extras/showing_file_extensions_fr.md'
+        - 'Autres options de boot': 'extras/alternate_bootsetups_fr.md'
+        - 'Informations sur les dongles RCM': 'extras/rcm_injectors_fr.md'
+        - 'Mettre à jour le CFW': 'extras/updating_fr.md'
+        - 'Changer de carte SD': 'extras/transfer_sd_fr.md'
+        - 'Glossaire': 'extras/glossary_fr.md'
+    - FAQ: faq_fr.md
+    - À propos: about_fr.md
+    
+markdown_extensions:
+    - admonition
+    - fontawesome_markdown
+
+extra_css:
+    - css/custom.css
