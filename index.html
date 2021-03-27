@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Switch CFW Guide.">
+        <meta name="author" content="NH Discord Server.">
+        
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <title>NH Switch Guide</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/darcula.min.css">
+        <link href="css/custom.css" rel="stylesheet">
+
+        <script src="js/jquery-1.10.2.min.js" defer></script>
+        <script src="js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body class="homepage">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href=".">NH Switch Guide</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem active">
+                                <a href="." class="nav-link">Menu</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Guide Utilisateur <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="user_guide/getting_started_fr/" class="dropdown-item">Bien démarrer</a>
+</li>
+                                    
+<li>
+    <a href="user_guide/rcm_fr/" class="dropdown-item">RCM</a>
+</li>
+                                    
+<li>
+    <a href="user_guide/emummc/entering_rcm_fr/" class="dropdown-item">Entrer en RCM</a>
+</li>
+                                    
+<li>
+    <a href="user_guide/emummc/sending_payload_fr/" class="dropdown-item">Injecter un payload</a>
+</li>
+                                    
+<li>
+    <a href="user_guide/emummc/partitioning_sd_fr/" class="dropdown-item">Partitionner la SD</a>
+</li>
+                                    
+<li>
+    <a href="user_guide/emummc/sd_preparation_fr/" class="dropdown-item">Préparation de la SD</a>
+</li>
+                                    
+<li>
+    <a href="user_guide/emummc/making_emummc_fr/" class="dropdown-item">Création emuMMC</a>
+</li>
+                                    
+<li>
+    <a href="user_guide/emummc/launching_cfw_fr/" class="dropdown-item">Lancer un CFW</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Extras <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="extras/blocking_updates_fr/" class="dropdown-item">Bloquer les mises à jour</a>
+</li>
+                                    
+<li>
+    <a href="extras/nandrestore_fr/" class="dropdown-item">Restaurer un backup de la NAND</a>
+</li>
+                                    
+<li>
+    <a href="extras/autorcm_fr/" class="dropdown-item">AutoRCM</a>
+</li>
+                                    
+<li>
+    <a href="extras/dumping_title_keys_fr/" class="dropdown-item">Dump des Title Keys</a>
+</li>
+                                    
+<li>
+    <a href="extras/theming_fr/" class="dropdown-item">Thèmes customisés</a>
+</li>
+                                    
+<li>
+    <a href="extras/save_management_fr/" class="dropdown-item">Gestion des sauvegardes</a>
+</li>
+                                    
+<li>
+    <a href="extras/game_modding_fr/" class="dropdown-item">Modder des jeux</a>
+</li>
+                                    
+<li>
+    <a href="extras/adding_udev_fr/" class="dropdown-item">Injecter sous Linux sans sudo</a>
+</li>
+                                    
+<li>
+    <a href="extras/showing_file_extensions_fr/" class="dropdown-item">Afficher les extentions des noms de fichiers (Windows)</a>
+</li>
+                                    
+<li>
+    <a href="extras/alternate_bootsetups_fr/" class="dropdown-item">Autres options de boot</a>
+</li>
+                                    
+<li>
+    <a href="extras/rcm_injectors_fr/" class="dropdown-item">Informations sur les dongles RCM</a>
+</li>
+                                    
+<li>
+    <a href="extras/updating_fr/" class="dropdown-item">Mettre à jour le CFW</a>
+</li>
+                                    
+<li>
+    <a href="extras/transfer_sd_fr/" class="dropdown-item">Changer de carte SD</a>
+</li>
+                                    
+<li>
+    <a href="extras/glossary_fr/" class="dropdown-item">Glossaire</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="navitem">
+                                <a href="faq_fr/" class="nav-link">FAQ</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="about_fr/" class="nav-link">À propos</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="user_guide/getting_started_fr/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#nh-switch-guide" class="nav-link">NH Switch Guide</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<p><a href="https://discord.gg/C29hYvh" target="_blank"><img style="float: right;" src="img/discord.png"></a></p>
+<h1 id="nh-switch-guide">NH Switch Guide</h1>
+<p>Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo Homebrew, traduit par un "Fantastic Dreamer". <em>From stock to Atmosphère !</em></p>
+<p>&nbsp;</p>
+<div class="admonition tip">
+<p class="admonition-title">Aide Discord</p>
+<p>Pour une assistance en direct avec ce guide, contactez-nous dans <strong>#switch-assistance</strong> sur le <a href="https://discord.gg/C29hYvh">Discord Nintendo Homebrew</a>. <em>En anglais !</em>
+Pour une aide concerant les étapes à réaliser en <em>français</em>, vous pourrez trouver votre bonheur sur le <a href="https://discord.gg/EKuDvDFe">serveur Discord dédié</a>.</p>
+</div>
+<h3 id="quest-ce-que-homebrew">Qu’est-ce que homebrew ?</h3>
+<div class="admonition tip">
+<p>Homebrew est un terme pour les logiciels non-officiels écrits par des amateurs et des développeurs amateurs pour les systèmes propriétaires (Comme la Switch).</p>
+<p>Cela peut inclure des éditeurs de sauvegardes, des jeux, des émulateurs et plus encore.</p>
+<p>Homebrew peut être exécuté gratuitement sur votre Switch via un CFW tant que vous avez un système de «première génération», avec une version logicielle de 11.0.1 ou moins, et un câble USB-C.</p>
+</div>
+<h3 id="quest-ce-quun-custom-firmware">Qu’est-ce qu'un Custom Firmware ?</h3>
+<div class="admonition tip">
+<p>Un Custom Firmware (“CFW”) est un logiciel qui modifie le logiciel système (firmware système).
+Atmosphère, par exemple, le fait en tournant à l'arrière plan du système et en appliquand des "patches" pendant que le système est allumé.</p>
+<p>Cela permet d’étendre les fonctionnalités de leur système en donnant aux homebrews des niveaux plus élevés de permission que la plupart des exploits "userland" et peut être utilisé pour fournir des fonctionnalités supplémentaires pour les développeurs homebrew et les utilisateurs, comme par par exemple de pouvoir modder des jeu en utilisant LayeredFS.</p>
+<p>Le CFW peut être mis en place sur n’importe quelle console de première génération sur n’importe quelle version (mais nécessitera des outils supplémentaires).</p>
+</div>
+<h3 id="quest-ce-que-ce-guide-installe">Qu’est-ce que ce guide installe ?</h3>
+<div class="admonition tip">
+<p>Ce guide a pour objectif final de prendre une Switch non modifiée le l'état "stock" (sans modifications) au CFW Atmosphère.</p>
+<p>fusée-gelée est actuellement la meilleure méthode de lancement du CFW qui nous donne presque un ontrôle total du système. Il utilise une vulnérabilité dans le bootROM des systèmes Switch de première génération, ce qui nous permet d’envoyer n’importe quel payload dans le mode de récupération de la Switch (RCM), au lieu de seulement ceux que Nintendo a autorisé.</p>
+</div>
+<h3 id="que-puis-je-faire-avec-un-custom-firmware">Que puis-je faire avec un Custom Firmware ?</h3>
+<div class="admonition tip">
+<ul>
+<li>Customisez votre menu HOME avec des thèmes personnalisés créés par d'autres utilisateurs</li>
+<li>Utilisez des “ROM hacks” pour les jeux que vous possédez</li>
+<li>Récupérer, éditer, et restaurer des sauvegardes pour de nombrex jeux</li>
+<li>Jouer à des jeux rétros avec divers émulateurs, comme RetroArch</li>
+<li>Mettre à jour votre système en toute sécurité sans risque de ne plus avoir accès aux homebrews</li>
+</ul>
+</div>
+<h3 id="que-dois-je-savoir-avant-de-demarrer">Que dois-je savoir avant de démarrer ?</h3>
+<div class="admonition tip">
+<p>Avant de commencer le guide, vous devez connaître les risques du piratage de la Switch : chaque fois que vous modifiez votre système, il y a toujours le risque d’un brick IRRÉCUPÉRABLE. Ils sont rares, mais il y a toujours toujours une possibilité alors assurez-vous de suivre PRÉCISÉMENT TOUTES les instruction.</p>
+<p>Ce guide porte sur les consoles Switch de première génération dans toutes les régions sur un firmware 11.0.1 ou moins.</p>
+<p>Vous aurez besoin de l’un des éléments suivants afin de poursuivre avec ce guide :</p>
+<ul>
+<li>Un câble USB-A vers USB-C, et un PC</li>
+<li>Un câble USB-OTG, un câble USB-A vers USB-C et un appareil Android<ul>
+<li>Cela ne fonctionne pas sur tous les téléphones Android</li>
+</ul>
+</li>
+<li>Un câble USB-C, et un appareil Android avec un port USB-C</li>
+<li>Un adaptateur Lightning-OTG, un câble USB-A vers USB-C et un appareil iOS jailbreaké<ul>
+<li>Cette méthode n’est pas présentée dans ce guide, mais vous pouvez en savoir plus à ce sujet sur <a href="https://mologie.github.io/nxboot/">ce site</a></li>
+</ul>
+</li>
+</ul>
+<p>Vous aurez également besoin d’une carte micro SD d’au moins 64 gigaoctets si vous prévoyez de suivre ce guide et créer une emuMMC, ce qui est plus sûr et fortement recommandé. Si vous devez utiliser une carte SD plus petite, il est possible d'utiliser la sysMMC, mais c'est fortement déconseillé.</p>
+<p>Enfin, vous aurez besoin d’un moyen d’accéder au mode Récupération. (Cela sera expliqué plus en détail dans la section «Entrer en RCM»)</p>
+</div>
+<p>Si tout se passe comme prévu, vous ne perdrez pas de données et vous retrouverez de nouveau tout ce avec quoi vous avez commencé (jeux, compte Nintendo, sauvegardes, etc. seront préservés).</p>
+<p>Gardez votre appareil branché et chargé tout au long du processus afin d’éviter la perte de données ou les dommages causés par une panne de courant inattendue.</p>
+<p>Le Custom Firmware n’est pas permanent avec les méthodes actuelles, et sera supprimé lors du redémarrage du système.</p>
+<p><strong>Il est conseillé de lire l’intégralité du guide, du début à la fin, une ou plusieurs fois, avant de réellement se lancer dans les manipulations</strong></p>
+<p>&nbsp;</p>
+<h4 id="continuer-sur-la-premiere-etape"><a href="user_guide/getting_started_fr/">Continuer sur la première étape <i class="fa fa-arrow-circle-right fa-lg"></i></a></h4></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>Copyright &copy; 2021 <a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>, Maintained by the <a href="/switch-guide/about">NH Discord Server</a>.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js" defer></script>
+        <script src="search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.1.2
+Build Date UTC : 2021-03-27 10:16:29.236268+00:00
+-->

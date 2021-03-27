@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <meta name="author" content="NH Discord Server.">
+        
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>Lancer un CFW - NH Switch Guide</title>
+        <link href="../../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/darcula.min.css">
+        <link href="../../../css/custom.css" rel="stylesheet">
+
+        <script src="../../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../../..">NH Switch Guide</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href="../../.." class="nav-link">Menu</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Guide Utilisateur <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../getting_started_fr/" class="dropdown-item">Bien démarrer</a>
+</li>
+                                    
+<li>
+    <a href="../../rcm_fr/" class="dropdown-item">RCM</a>
+</li>
+                                    
+<li>
+    <a href="../../emummc/entering_rcm_fr/" class="dropdown-item">Entrer en RCM</a>
+</li>
+                                    
+<li>
+    <a href="../../emummc/sending_payload_fr/" class="dropdown-item">Injecter un payload</a>
+</li>
+                                    
+<li>
+    <a href="../../emummc/partitioning_sd_fr/" class="dropdown-item">Partitionner la SD</a>
+</li>
+                                    
+<li>
+    <a href="../../emummc/sd_preparation_fr/" class="dropdown-item">Préparation de la SD</a>
+</li>
+                                    
+<li>
+    <a href="../../emummc/making_emummc_fr/" class="dropdown-item">Création emuMMC</a>
+</li>
+                                    
+<li>
+    <a href="../../emummc/launching_cfw_fr/" class="dropdown-item">Lancer un CFW</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Extras <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../../extras/blocking_updates_fr/" class="dropdown-item">Bloquer les mises à jour</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/nandrestore_fr/" class="dropdown-item">Restaurer un backup de la NAND</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/autorcm_fr/" class="dropdown-item">AutoRCM</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/dumping_title_keys_fr/" class="dropdown-item">Dump des Title Keys</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/theming_fr/" class="dropdown-item">Thèmes customisés</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/save_management_fr/" class="dropdown-item">Gestion des sauvegardes</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/game_modding_fr/" class="dropdown-item">Modder des jeux</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/adding_udev_fr/" class="dropdown-item">Injecter sous Linux sans sudo</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/showing_file_extensions_fr/" class="dropdown-item">Afficher les extentions des noms de fichiers (Windows)</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/alternate_bootsetups_fr/" class="dropdown-item">Autres options de boot</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/rcm_injectors_fr/" class="dropdown-item">Informations sur les dongles RCM</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/updating_fr/" class="dropdown-item">Mettre à jour le CFW</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/transfer_sd_fr/" class="dropdown-item">Changer de carte SD</a>
+</li>
+                                    
+<li>
+    <a href="../../../extras/glossary_fr/" class="dropdown-item">Glossaire</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../../faq_fr/" class="nav-link">FAQ</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="../../../about_fr/" class="nav-link">À propos</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#lancer-un-cfw" class="nav-link">Lancer un CFW</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="lancer-un-cfw">Lancer un CFW</h1>
+<p>Maintenant la préparation est terminée, nous sommes enfin prêts à lancer le custom firmware sur la Switch.</p>
+<p>Contrairement à des systèmes tels que la DSi, la wii, ou la 3DS, le CFW de la Switch est actuellement volatile (il ne fonctionnera que tant que votre console est allumée. Dès que votre Switch s'éteint pour n'importe quelle (arrêt, plus de batterie, etc.), le CFW ne sera plus actif et vous devrez suivre ces instructions à nouveau.
+&nbsp;</p>
+<h3 id="instructions">Instructions</h3>
+<div class="admonition tip">
+<ol>
+<li>Lancez la Switch en RCM et injectez le payload Hekate</li>
+<li>Allez dans le menu <code>Launch</code> en utilisant l'écran tactile</li>
+<li>Lancez <code>Atmosphere FSS0 SYS</code></li>
+</ol>
+</div>
+<p>Votre Switch va maintenant démarrer sous Atmosphère.</p>
+<p>Pour vérifier qu'Atmosphère a été lancé correctement, ouvrez l’applet Paramètres puis Console. Vous devriez voir 'AMS' à côté du numéro de version, ainsi qu’un 'S' à la fin, indiquant que vous utilisez la sysMMC.</p>
+<p>&nbsp;</p>
+<div class="admonition tip">
+<p><img alt="Atmosphere version string" src="../../img/launching_cfw_atmosphere_version_string.jpg" /></p>
+</div>
+<p>&nbsp;</p>
+<h3 id="presentation-des-homebrews-inclus">Présentation des homebrews inclus</h3>
+<p>Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant le bouton R tout en lançant n’importe quel jeu (y compris les démos/cartouches) ou une application (par exemple Youtube/Hulu). Si R n’est pas tenu, le jeu ou l’application sera lancé comme d’habitude.</p>
+<div class="admonition warning">
+<p class="admonition-title">Note importante sur l'utilisation de l'album pour lancer le menu homebrew</p>
+<ul>
+<li>L’utilisation de l’album pour lancer le menu Homebrew au lieu d’un jeu ou d’une application a plusieurs limites, tel que : une plus petite quantité de mémoire disponible (RAM), ainsi que d’être incapable de lancer un navigateur Web complet. Il est fortement recommandé de lancer homebrew à travers des applications ou des jeux à la place.</li>
+</ul>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">Ajouter de nouvelles applications</p>
+<ul>
+<li>Placez les applications homebrew (fichiers <code>.nro</code>) dans le dossier <code>switch</code> de votre carte SD.</li>
+</ul>
+</div>
+<p>&nbsp;</p>
+<h3 id="presentation-des-homebrews-inclus_1">Présentation des homebrews inclus</h3>
+<div class="admonition tip">
+<ul>
+<li>
+<p>Checkpoint est un gestionnaire de fichiers de sauvegarde, il peut copier et restaurer les sauvegardes de votre système. Pour plus d’informations, voir <a href="../../../extras/save_management_fr/">Gestion des sauvegardes</a></p>
+</li>
+<li>
+<p>FTPD est un outil ftp pour connecter sans fil la carte sd de votre Switch à votre PC. Des outils comme Filezilla peuvent se connecter à votre Switch sur <code>(ip de la Switch):5000</code></p>
+</li>
+<li>
+<p>NX-Shell est un explorateur de fichiers pour la Switch. Vous pouvez déplacer des fichiers, écouter des fichiers mp3, voir des images, etc.</p>
+</li>
+<li>
+<p>NXThemeInstaller est une application pour installer des thèmes. Voir la <a href="../../../extras/theming_fr/">section sur ce sujet de notre guide</a> pour plus d’informations.</p>
+</li>
+<li>
+<p>hbappstore est un eShop d’applications homebrew où une grande collection de homebrew pour le Switch est disponible.</p>
+</li>
+</ul>
+</div></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+                <p>Copyright &copy; 2021 <a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>, Maintained by the <a href="/switch-guide/about">NH Discord Server</a>.</p>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../../js/base.js" defer></script>
+        <script src="../../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
