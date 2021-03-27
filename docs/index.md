@@ -8,7 +8,6 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 
 !!! tip "Aide Discord"
     Pour une assistance en direct avec ce guide, contactez-nous dans **#switch-assistance** sur le [Discord Nintendo Homebrew](https://discord.gg/C29hYvh). *En anglais !*
-    Pour une aide concerant les étapes à réaliser en *français*, vous pourrez trouver votre bonheur sur le [serveur Discord dédié](https://discord.gg/EKuDvDFe).
 
 ### Qu’est-ce que homebrew ?
 
