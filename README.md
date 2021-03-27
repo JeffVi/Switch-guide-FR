@@ -1,8 +1,8 @@
 # Switch Guide FR
 
-[Le guide original peut être trouvé ici](https://nh-server.github.io/switch-guide)
+[The english guide can be found here!](https://nh-server.github.io/switch-guide)
 
-[La traduction est ici](https://jeffvi.github.io/Switch-guide-FR)
+[The translation is here!](https://jeffvi.github.io/Switch-guide-FR)
 
 [![Build Status](https://travis-ci.com/nh-server/switch-guide.svg?branch=master)](https://travis-ci.com/nh-server/switch-guide)
 
