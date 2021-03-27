@@ -1,10 +1,12 @@
 # Switch Guide FR
 
-[The guide can be found here!](https://nh-server.github.io/switch-guide)
+[Le guide original peut être trouvé ici](https://nh-server.github.io/switch-guide)
+
+[La traduction est ici](https://jeffvi.github.io/Switch-guide-FR)
 
 [![Build Status](https://travis-ci.com/nh-server/switch-guide.svg?branch=master)](https://travis-ci.com/nh-server/switch-guide)
 
-Nintendo Switch homebrew guide written by staff members of the Nintendo Homebrew Discord server.
+Nintendo Switch homebrew guide written by staff members of the Nintendo Homebrew Discord server and translated by JeffVi.
 
 ![nh-server.github.io/switch-guide](https://phoenix.s-ul.eu/opEhcK7q.png)
 ## Development
