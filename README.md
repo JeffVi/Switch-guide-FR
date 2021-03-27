@@ -1,4 +1,4 @@
-# Switch Guide
+# Switch Guide FR
 
 [The guide can be found here!](https://nh-server.github.io/switch-guide)
 
