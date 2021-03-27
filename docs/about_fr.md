@@ -2,7 +2,7 @@
 
 # À propos de ce guide
 
-Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo Homebrew](https://discord.gg/C29hYvh) et traduit par [JeffV#9036 sur Discord](https://discord.gg/EKuDvDFe).
+Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo Homebrew](https://discord.gg/C29hYvh) et traduit par JeffV#9036 sur Discord.
 
 &nbsp;
 
