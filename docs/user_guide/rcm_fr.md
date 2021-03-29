@@ -1,6 +1,6 @@
 # RCM
 
-RCM (ReCovery Mode) est un mode pour la Switch qui permet à Nintendo d'envoyer des commandes à la console pour effectuer différentes tâches. Il a été découvert que sur des Switches non patchées, il est possible d'envoyer un payload afin de surcharger le buffer mémoire et ainsi accéder au système. C'est ce que l'on utilise ici pour lancer atmosphère.
+RCM (**R**e**C**overy **M**ode) est un mode pour la Switch qui permet à Nintendo d'envoyer des commandes à la console pour effectuer différentes tâches. Il a été découvert que sur des Switches non patchées, il est possible d'envoyer un payload afin de surcharger le buffer mémoire et ainsi accéder au système. C'est ce que l'on utilise ici pour lancer Atmosphère.
 
 !!!tip "emuNAND vs emuMMC vs sysNAND"
 	- sysNAND est le diminutif de System NAND, qui correspond à la mémoire interne de la Switch.
@@ -16,7 +16,7 @@ RCM (ReCovery Mode) est un mode pour la Switch qui permet à Nintendo d'envoyer 
 
 	#### Avantages d'utiliser l'emuNAND plutôt que le CFW sur la sysNAND :
 	
-	- Utiliser des applications homebrew comme un éditeur de sauvegardes, utiliser des codes de triche dans des jeux hors ligne sans "salir" ou affecter votre sysNAND. Ainsi votre sysNAND peut être utilisée en ligne sans risque de bannissement de la console.
+	- Utiliser des applications homebrew comme un éditeur de sauvegardes, utiliser des codes de triche dans des jeux hors ligne sans "salir" ou affecter votre sysNAND. Ainsi, votre sysNAND peut être utilisée en ligne sans risque de bannissement de la console.
 	- Permettre aux pocesseurs des Switches patchées d'utiliser Caffeine pour mettre à jour leur emuNAND et l'utiliser en ligne, tout en gardant leur sysNAND à une version antérieure et vulnérable.
 
 &nbsp;
