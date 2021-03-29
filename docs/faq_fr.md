@@ -7,7 +7,7 @@
     Toute console achetée après août 2018 est **probablement** patchée. Cela inclut les dernières unités produites, appelées « boîte rouge » ou « Mariko ».
     Mariko est un modèle patché, mais qui peut posséder sur un firmware vulnérable.
     Actuellement, la seule façon de savoir si votre Switch est hackable est en essayant d’envoyer un payload en RCM.
-    Même patchées, de nombreuses consoles en 8.0.1 et moins seront hackables dans une certaine mesure à l’avenir (voir [Dois-je mettre à jour mon Firmware ?] (#dois-je-mettre-à-jour-mon-firmware) pour des informations beaucoup plus détaillées).
+    Même patchées, de nombreuses consoles en 8.0.1 et moins seront hackables dans une certaine mesure à l’avenir (voir [Dois-je mettre à jour mon Firmware ?] (#dois-je-mettre-a-jour-mon-firmware) pour des informations beaucoup plus détaillées).
     Le numéro de série au dos de la boîte peut éventuellement vous dire quelles consoles sont patchées et lesquelles ne le sont pas. 
     Voir <a href="https://gbatemp.net/threads/switch-informations-by-serial-number.481215/" target="_blank">ici</a> pour une liste à jour.
 
@@ -17,7 +17,7 @@
 !!!tip ""
     Pour lancer un CFW en utilisant la faille fusée-gelée, la Switch doit être en "Recovery Mode"(RCM). 
     La façon la plus simple d’entrer en RCM est en reliant le pin 10 à la terre dans le rail joycon droit et en maintenant VOL+ au démarrage. 
-    De nombreuses méthodes existent, cf. [cette page](https://nh-server.github.io/switch-guide/user_guide/emummc/entering_rcm) pour plus d'informations. 
+    De nombreuses méthodes existent, cf. [cette page](user_guide/emummc/entering_rcm_fr) pour plus d'informations. 
     Une fois que la Switch est en RCM, elle doit être connectée à un ordinateur, un téléphone ou un dongle pour recevoir un payload.
 
     Cette procédure devra être répétée chaque fois que la Switch démarre à partir d’un état complètement « off » (i.e. si elle est complètement éteinte), sinon la Switch va démarrer normalement (stock).
@@ -140,7 +140,7 @@
 !!!tip ""
     N’achetez pas de cartes microSD sur des sites comme eBay. 
     Ces cartes microSD sont souvent des "fausses" et ne possèdent pas la quantité de stockage annoncée, ce qui se traduira par la corruption des données si elle est utilisée. 
-    Amazon a eu quelques problèmes avec des fausses cartes SD, nous vous recommandons donc de les acheter dans un magasin "physique". Même sur les sites dignes de confiance, * toujours, toujours vérifier les commentaires sur un produit avant d’acheter! *
+    Amazon a eu quelques problèmes avec des fausses cartes SD, nous vous recommandons donc de les acheter dans un magasin "physique". Même sur les sites dignes de confiance, *toujours, toujours vérifier les commentaires sur un produit avant d’acheter !*
 
     
     Si vous suspectez voutre carte dêtre une fausse, vous pouvez suivre les instructions données <a href="https://3ds.eiphax.tech/sd.html" target="_blank">ici</a> (*en anglais*) pour vérifier l’intégrité de votre carte SD.
@@ -148,7 +148,7 @@
 ## Les jigs Amazon/eBay/Aliexpress
 
 !!!tip ""
-    Bien que certains jigs Switch sont à vendre sur ces sites Web, nous n’avons aucun moyen de vérifier qu’ils sont appropriés et sécurisés pour le Switch. *Aujourd'hui, nous ne recommandons pas l’achat à partir de ces sites Web. Les seuls vendeurs en qui nous avons confiance en raison de leur réputation et de notre expérience globale avec les nombreux jigs qu’ils ont envoyés est <a href="https://switchjigs.com/" target="_blank">Switch Jigs</a>.
+    Bien que certains jigs Switch sont à vendre sur ces sites Web, nous n’avons aucun moyen de vérifier qu’ils sont appropriés et sécurisés pour le Switch. *Aujourd'hui, nous ne recommandons pas l’achat à partir de ces sites Web.* Les seuls vendeurs en qui nous avons confiance en raison de leur réputation et de notre expérience globale avec les nombreux jigs qu’ils ont envoyés est <a href="https://switchjigs.com/" target="_blank">Switch Jigs</a>.
 
 
 
@@ -157,10 +157,10 @@
 !!!tip ""
     Il s’agit d’un problème affectant principalement les utilisateurs de macOS, mais qui peut aussi se produire sur d’autres appareils. Si vous êtes en mesure de lancer le menu homebrew, mais que vous ne voyez qu'une partie ou aucun de vos homebrews, vous aurez besoin de réinitialiser l'archive bit avec Hekate.
 
-    1. Lancez Hekate en suivant [ces instructions](https://nh-server.github.io/switch-guide/user_guide/emummc/sending_payload/) si vous ne savez plus comment faire.
+    1. Lancez Hekate en suivant [ces instructions](user_guide/emummc/sending_payload_fr) si vous ne savez plus comment faire.
     2. Appuyez sur `Tools`.
     3. Dans le coin inférieur gauche appuyez sur `Archive bit * AutoRCM`
     4. Appuyez sur `Unset Archive bit`. Cela peut prendre un certain temps.
     5. Appuyez sur `Close` dans le coin supérieur droit.
     6. Appuyez sur `Home` pour revenir au menu principal.
-    7. Lancez le CFW Atmosphère (si vous ne savez plus comment faire, se renseigner [ici](https://nh-server.github.io/switch-guide/user_guide/emummc/launching_cfw/)).
+    7. Lancez le CFW Atmosphère (si vous ne savez plus comment faire, se renseigner [ici](user_guide/emummc/launching_cfw_fr)).
