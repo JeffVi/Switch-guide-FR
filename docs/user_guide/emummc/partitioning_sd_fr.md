@@ -16,7 +16,7 @@ Ce dont vous aurez besoin :
 
 ### Instructions
 
-1. Injectez le payload TegraExplorer avec votre carte SD de 64 Go (ou plus) insérée dans votre Switch.
+1. Injectez le payload **TegraExplorer** (et non pas Hekate, ne vous trompez pas car l'option est également disponible sous Hekate) avec votre carte SD de 64 Go (ou plus) insérée dans votre Switch.
 	- Si vous avez oublié comment faire, relisez la page [envoyer un payload](sending_payload_fr.md) du guide.
 2. Allez sur `Partition the sd` et appuyez sur le bouton A pour entrer dans le menu de formatage de la SD.
 	- Si vous ne trouvez pas l'option `Partition the sd`, soyez sûr d'avoir inséré la carte SD dans la Switch et sélectionnez `Mount SD`.
