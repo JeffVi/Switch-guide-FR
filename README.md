@@ -6,7 +6,7 @@
 
 [![Build Status](https://travis-ci.com/nh-server/switch-guide.svg?branch=master)](https://travis-ci.com/nh-server/switch-guide)
 
-Nintendo Switch homebrew guide written by staff members of the Nintendo Homebrew Discord server and translated by JeffVi.
+Nintendo Switch homebrew guide written by staff members of the Nintendo Homebrew Discord server and translated in french.
 
 ![nh-server.github.io/switch-guide](https://phoenix.s-ul.eu/opEhcK7q.png)
 ## Development
