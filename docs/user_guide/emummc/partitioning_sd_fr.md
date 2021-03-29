@@ -28,7 +28,7 @@ Ce dont vous aurez besoin :
 6. Sélectionnez `Reboot to RCM` pour de nouveau entrer en RCM. Vous pouvez désormais récupérer votre carte SD et l'insérer dans votre PC.
 
 !!! warning "Windows affiche un message d'erreur pour la carte SD"
-    Si Windows vous informe que la carte SD est illisible et qu'il veut la formater, ne pas formater ! C’est probablement votre partition emuMMC.
+    Si Windows vous informe que la carte SD est illisible et qu'il veut la formater, ne pas formater ! C’est probablement votre partition emuMMC. Après la partition de votre SD, celle-ci s’affichera sous forme de 2 lecteurs sur votre PC. Utilisez le lecteur accessible.
     
 &nbsp;
 
