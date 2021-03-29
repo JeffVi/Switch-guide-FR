@@ -12,7 +12,7 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 ### Qu’est-ce que homebrew ?
 
 !!! tip ""
-    Homebrew est un terme pour les logiciels non-officiels écrits par des amateurs et des développeurs amateurs pour les systèmes propriétaires (Comme la Switch).
+    Homebrew est un terme pour les logiciels non-officiels écrits par des amateurs et des développeurs amateurs pour les systèmes propriétaires (comme la Switch).
 
     Cela peut inclure des éditeurs de sauvegardes, des jeux, des émulateurs et plus encore.
 
@@ -24,16 +24,16 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
     Un Custom Firmware (“CFW”) est un logiciel qui modifie le logiciel système (firmware système).
     Atmosphère, par exemple, le fait en tournant à l'arrière plan du système et en appliquand des "patches" pendant que le système est allumé.
 
-    Cela permet d’étendre les fonctionnalités de leur système en donnant aux homebrews des niveaux plus élevés de permission que la plupart des exploits "userland" et peut être utilisé pour fournir des fonctionnalités supplémentaires pour les développeurs homebrew et les utilisateurs, comme par par exemple de pouvoir modder des jeu en utilisant LayeredFS.
+    Cela permet d’étendre les fonctionnalités de leur système en donnant aux homebrews des niveaux plus élevés de permission que la plupart des exploits "userland" et qui peut donc être utilisé pour fournir des fonctionnalités supplémentaires pour les développeurs homebrew et les utilisateurs, comme par exemple de pouvoir modder des jeu en utilisant LayeredFS.
 
     Le CFW peut être mis en place sur n’importe quelle console de première génération sur n’importe quelle version (mais nécessitera des outils supplémentaires).
 
 ### Qu’est-ce que ce guide installe ?
 
 !!! tip ""
-    Ce guide a pour objectif final de prendre une Switch non modifiée le l'état "stock" (sans modifications) au CFW Atmosphère.
+    Ce guide a pour objectif final de prendre une Switch non modifiée à l'état "stock" (nom de l'état sans modifications) au CFW Atmosphère.
 
-    fusée-gelée est actuellement la meilleure méthode de lancement du CFW qui nous donne presque un ontrôle total du système. Il utilise une vulnérabilité dans le bootROM des systèmes Switch de première génération, ce qui nous permet d’envoyer n’importe quel payload dans le mode de récupération de la Switch (RCM), au lieu de seulement ceux que Nintendo a autorisé.
+    fusée-gelée est actuellement la meilleure méthode de lancement du CFW qui nous donne presque un vontrôle total du système. Il utilise une vulnérabilité dans le bootROM des systèmes Switch de première génération, ce qui nous permet d’envoyer n’importe quel payload dans le mode de récupération de la Switch (RCM), au lieu de seulement ceux que Nintendo a autorisé.
 
 ### Que puis-je faire avec un Custom Firmware ?
 
@@ -51,7 +51,7 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 
     Ce guide porte sur les consoles Switch de première génération dans toutes les régions sur un firmware 11.0.1 ou moins.
 
-    Vous aurez besoin de l’un des éléments suivants afin de poursuivre avec ce guide :
+    Vous aurez besoin **de l’un** des éléments suivants afin de poursuivre avec ce guide :
 
     - Un câble USB-A vers USB-C, et un PC
     - Un câble USB-OTG, un câble USB-A vers USB-C et un appareil Android
@@ -63,7 +63,7 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 
     Vous aurez également besoin d’une carte micro SD d’au moins 64 gigaoctets si vous prévoyez de suivre ce guide et créer une emuMMC, ce qui est plus sûr et fortement recommandé. Si vous devez utiliser une carte SD plus petite, il est possible d'utiliser la sysMMC, mais c'est fortement déconseillé.
 
-    Enfin, vous aurez besoin d’un moyen d’accéder au mode Récupération. (Cela sera expliqué plus en détail dans la section «Entrer en RCM»)
+    Enfin, vous aurez besoin d’un moyen d’accéder au mode Récupération. (Cela sera expliqué plus en détail dans la section *Entrer en RCM*)
 
 Si tout se passe comme prévu, vous ne perdrez pas de données et vous retrouverez de nouveau tout ce avec quoi vous avez commencé (jeux, compte Nintendo, sauvegardes, etc. seront préservés).
 
