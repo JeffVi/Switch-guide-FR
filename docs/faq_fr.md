@@ -17,7 +17,7 @@
 !!!tip ""
     Pour lancer un CFW en utilisant la faille fusée-gelée, la Switch doit être en "Recovery Mode"(RCM). 
     La façon la plus simple d’entrer en RCM est en reliant le pin 10 à la terre dans le rail joycon droit et en maintenant VOL+ au démarrage. 
-    De nombreuses méthodes existent, cf. [cette page](user_guide/emummc/entering_rcm_fr) pour plus d'informations. 
+    De nombreuses méthodes existent, cf. [cette page](user_guide/emummc/entering_rcm_fr.md) pour plus d'informations. 
     Une fois que la Switch est en RCM, elle doit être connectée à un ordinateur, un téléphone ou un dongle pour recevoir un payload.
 
     Cette procédure devra être répétée chaque fois que la Switch démarre à partir d’un état complètement « off » (i.e. si elle est complètement éteinte), sinon la Switch va démarrer normalement (stock).
@@ -157,10 +157,10 @@
 !!!tip ""
     Il s’agit d’un problème affectant principalement les utilisateurs de macOS, mais qui peut aussi se produire sur d’autres appareils. Si vous êtes en mesure de lancer le menu homebrew, mais que vous ne voyez qu'une partie ou aucun de vos homebrews, vous aurez besoin de réinitialiser l'archive bit avec Hekate.
 
-    1. Lancez Hekate en suivant [ces instructions](user_guide/emummc/sending_payload_fr) si vous ne savez plus comment faire.
+    1. Lancez Hekate en suivant [ces instructions](user_guide/emummc/sending_payload_fr.md) si vous ne savez plus comment faire.
     2. Appuyez sur `Tools`.
     3. Dans le coin inférieur gauche appuyez sur `Archive bit * AutoRCM`
     4. Appuyez sur `Unset Archive bit`. Cela peut prendre un certain temps.
     5. Appuyez sur `Close` dans le coin supérieur droit.
     6. Appuyez sur `Home` pour revenir au menu principal.
-    7. Lancez le CFW Atmosphère (si vous ne savez plus comment faire, se renseigner [ici](user_guide/emummc/launching_cfw_fr)).
+    7. Lancez le CFW Atmosphère (si vous ne savez plus comment faire, se renseigner [ici](user_guide/emummc/launching_cfw_fr.md)).
