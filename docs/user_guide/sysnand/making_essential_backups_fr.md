@@ -35,7 +35,7 @@
           - Répétez la procédure jusqu'à ce que la totalité de la NAND soit sauvegardée.
     5. Appuyez sur `Close` > `Home` > `Power Off`.
     6. Insérez votre carte SD dans votre PC.
-    7. Copiez le dossier `backup` de votre carte SD vers votre PC afin de le conserver précieusement.
+    7. Copiez le dossier `backup` de votre carte SD vers votre PC afin de le conserver précieusement. Vous pouvez ensuite le supprimer de votre SD sans crainte.
 
 &nbsp;
 
@@ -57,7 +57,7 @@
     6. Appuyez sur un bouton pour revenir au menu.
     7. Allez sur `Power off` avec les boutons de volume et validez avec le bouton power.
     8. Insérez votre carte SD dans votre PC.
-    9. Copiez le fichier `prod.keys` du dossier `switch` de votre carte SD card sur votre PC afin de le conserver précieusement.
+    9. Copiez le fichier `prod.keys` du dossier `switch` de votre carte SD card sur votre PC afin de le conserver précieusement. *Ne les supprimez pas de la carte SD !*
 
 &nbsp;
 
