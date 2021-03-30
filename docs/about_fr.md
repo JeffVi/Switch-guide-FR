@@ -2,12 +2,12 @@
 
 # À propos de ce guide
 
-Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo Homebrew](https://discord.gg/C29hYvh) et traduit par JeffV#9036 sur Discord.
+Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo Homebrew](https://discord.gg/C29hYvh) et traduit par [JeffV#9036 sur Discord.](https://discord.gg/Qe6aKneVMy)
 
 &nbsp;
 
-!!! tip "Credits"
-    **Flump, jerbear64, Phoenix, xGhostBoyx, Such Meme Many Skill, PhazonicRidley, emmo, dennthecafebabe, Dax, and oreo639.**
+!!! tip "Crédits"
+    **Flump, jerbear64, Phoenix, xGhostBoyx, Such Meme Many Skill, PhazonicRidley, emmo, dennthecafebabe, Dax et oreo639.**
 
     Merci à [tout ceux](https://github.com/nh-server/switch-guide/graphs/contributors) qui ont contribué à la mise en place du guide sur GitHub, et plus particulièrement à **noirscape**.
 
