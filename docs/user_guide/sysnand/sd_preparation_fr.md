@@ -19,8 +19,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée (primary). 
 
 !!! tip ""
     - La dernière version de <a href="https://github.com/CTCaer/Hekate/releases/" target="_blank">Hekate</a> (Téléchargez `hekate_ctcaer_(version).zip` dans les assets)
-    - Le fichier de configuration Hekate : <a href="../../../files/emu/hekate_ipl.ini" download>hekate_ipl.ini</a>
-    - La configuration de redirection DNS (90dns) : <a href="../../../files/emummc.txt" download>emummc.txt</a>
+    - Le fichier de configuration Hekate : <a href="../../../files/sys/hekate_ipl.ini" download>hekate_ipl.ini</a>
     - Le dossier bootlogo.zip : <a href="../../../files/bootlogos.zip" download>bootlogos.zip</a>
     - La dernière version de <a href="https://github.com/Atmosphere-NX/Atmosphere/releases" target="_blank">Atmosphère</a> (Téléchargez `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip` dans les assets).
     - La dernière version de <a href="https://github.com/shchmue/Lockpick_RCM/releases" target="_blank">Lockpick_RCM</a> (Téléchargez `Lockpick_RCM.bin` dans les assets)
@@ -36,15 +35,12 @@ Atmosphère possède son propre bootloader (payload), appelé fusée (primary). 
     1. Insérez la carte SD de votre Switch dans votre PC.
     2. Copiez *le contenu* du fichier `.zip` Atmosphere à la racine de votre carte SD.
     3. Copiez le dossier `bootloader` du fichier `.zip` Hekate à la racine de votre carte SD.
-    4. Copiez le dossier `bootloader` du fichier `bootlogos.zip` à la racine de votre carte SD.
-       - Si on vous demande de fusionner les dossiers, faites le.
+    4. Copiez le dossier `bootloader` du fichier `bootlogos.zip` à la racine de votre carte SD. Si on vous demande de fusionner les dossiers et/ou remplacer les fichiers, faites le.
     5. Copiez le fichier `hekate_ipl.ini` dans le dossier `bootloader` sur votre carte SD.
     6. Copiez le fichier `Lockpick_RCM.bin` dans le dossier `/bootloader/payloads` sur votre carte SD.
-    7. Créez un dossier `hosts` dans le dossier `atmosphere` sur votre carte SD, et mettez le fichier `emummc.txt` à l'intérieur.
-    8. Créez un dossier `appstore` dans le dossier `switch` sur votre carte SD, et mettez le fichier `appstore.nro` à l'intérieur.
-    9. Copiez les fichiers `Checkpoint.nro`, `ftpd.nro`, `NX-Shell.nro` et `NxThemesInstaller.nro` dans le dossier `switch` sur votre carte SD.
-    10. Si vous utilisiez déjà votre carte microSD comme périphérique de stockage pour vos jeux et que vous avez conservé votre dossier `Nintendo` avant de partitionner votre carte microSD, replacez le à la racine de votre carte microSD.
-    11. Réinsérez votre carte SD dans votre Switch.
+    7. Créez un dossier `appstore` dans le dossier `switch` sur votre carte SD, et mettez le fichier `appstore.nro` à l'intérieur.
+    8. Copiez les fichiers `Checkpoint.nro`, `ftpd.nro`, `NX-Shell.nro` et `NxThemesInstaller.nro` dans le dossier `switch` sur votre carte SD.
+    10. Réinsérez votre carte SD dans votre Switch.
 
     !!! tip ""
         Votre carte SD devrait ressembler à ça. Le dossier `Nintendo` n'est pas présent si vous n'avez jamais utilisé votre carte SD avec votre Switch.
