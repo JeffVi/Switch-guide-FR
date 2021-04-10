@@ -14,9 +14,6 @@ Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo 
 !!! tip ""
     [Vous pouvez trouver la version originale de ce guide sur GitHub](https://github.com/nh-server/switch-guide), dont vous trouverez la license ici [ISC license.](https://github.com/nh-server/switch-guide/blob/master/LICENSE.md)
 
-!!! tip ""
-    ![Nintendo Homebrew](img/nh.jpg)
-
 !!! tip "Développeurs, développeuses / credits pour les outils"
     - **Atmosphere-NX** pour [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere).
     - **switchbrew** pour [nx-hbloader](https://github.com/switchbrew/nx-hbloader) et [nx-hbmenu](https://github.com/switchbrew/nx-hbmenu).
@@ -37,4 +34,7 @@ Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo 
     - **exelix11** pour [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector/releases).
     - **vgmoose** pour [hb-appstore](https://github.com/vgmoose/hb-appstore).
     - **suchmememanyskill** pour [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)
+
+!!! tip ""
+    ![Nintendo Homebrew](img/nh.jpg)
 
