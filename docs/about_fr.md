@@ -36,3 +36,5 @@ Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo 
     - **Nexrem (meganukebmp)** pour [Switch 90DNS Tester](https://github.com/meganukebmp/Switch_90DNS_tester).
     - **exelix11** pour [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector/releases).
     - **vgmoose** pour [hb-appstore](https://github.com/vgmoose/hb-appstore).
+    - **suchmememanyskill** pour [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer)
+
