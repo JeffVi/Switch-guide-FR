@@ -84,8 +84,8 @@ L'information qui suit est basée sur cette [discussion de GBATemp](https://gbat
 | 4.0.0 - 4.1.0  | Caffeine ou [**RCM**](rcm_fr.md)   | Caffeine                   | **N/A**                     | **N/A**                |
 | 5.0.0 - 7.0.0  | [**RCM**](rcm_fr.md)               | En attente de CFW          | **N/A**                     | **N/A**                |
 | 7.0.1          | [**RCM**](rcm_fr.md)               | En attente de CFW          | Cart update to 8.0.1        | **N/A**                |
-| 8.0.1          | [**RCM**](rcm_fr.md)               | En attente de homebrew     | En attente de homebrew      | En attente de homebrew      |
-| 8.1.0 - 11.0.1 | [**RCM**](rcm_fr.md)               | Non hackable (aujourd'hui) | Non hackable (aujourd'hui)  | Unhackable (currently)Non hackable (aujourd'hui) |
+| 8.0.1          | [**RCM**](rcm_fr.md)               | En attente de homebrew     | En attente de homebrew      | En attente de homebrew |
+| 8.1.0 - 11.0.1 | [**RCM**](rcm_fr.md)               | Non hackable (aujourd'hui) | Non hackable (aujourd'hui)  | Non hackable (aujourd'hui) |
 
 &nbsp;
 
