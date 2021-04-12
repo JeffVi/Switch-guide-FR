@@ -64,7 +64,7 @@
     Les mises à jour majeures de la Switch, ou mises à jour dans lesquelles une vulnérabilité système a été patchée, brûlent irréversiblement l’un des 64 « fusibles électroniques » de la Switch. 
     *Si jamais la Switch détecte qu’un plus grand nombre de fusibles électroniques ont été brûlés que ce qui était prévu prévu (ce qui signifie qu’un downgrade s’est produit), elle refusera de démarrer. Remplacer les fusibles électroniques n’est pas une option.*
     Vous pouvez trouver plus d’informations sur les fusibles <a href="https://switchbrew.org/wiki/Fuses#Anti-downgrade" target="_blank">ici</a>
-    Atmosphère 0.16.1 fonctionne très bien avec la nouvelle mise à jour du firmware 11.0.1 sur les unités non patchées. La situation des unités patchées est celle-ci :
+    Atmosphère 0.19.0 fonctionne très bien avec la nouvelle mise à jour du firmware 12.0.0 sur les unités non patchées. La situation des unités patchées est celle-ci :
 
     - **"Anciennes"** *Switch patchée (HAC-001) : Ne mettez PAS à jour au-delà de 7.0.1. Les consoles tournant sur 7.0.1 et moins finiront par obtenir un CFW. Les unités patchées qui sont au firmware 8.0.0 ou 8.0.1 recevront probablement des homebrews.*
 
