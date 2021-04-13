@@ -104,7 +104,7 @@ Il y a plusieures façons d'accéder au RCM (**R**e**C**overy **M**ode). La plus
 !!! tip ""
     ### Soudure des pads du Joy-Con - 9 & 10
     <details>
-        <summary>Click to expand!</summary>
+        <summary>Cliquez pour afficher !</summary>
 
     !!! snippet "Note"
         Cette méthode se traduira par le Joy-Con droit étant détecté comme en mode sans fil lorsqu’il est attaché à la Switch. De plus, cette méthode peut entraîner le Joy-Con à être détecté en permanence comme étant une manette sans fil si vous mettez à jour le Joy-Con pendant que ce mod est installé. Si tel est le cas, pour résoudre ce problème, il faut ouvrir le Joy-Con et réinitialiser la batterie. Il est recommandé de souder les pads 7 et 10 avec une résistance à la place.
@@ -126,7 +126,7 @@ Il y a plusieures façons d'accéder au RCM (**R**e**C**overy **M**ode). La plus
 !!! tip ""
     ### Plier les pins (Non recommandé)
     <details>
-        <summary>Click to expand!</summary>
+        <summary>Cliquez pour afficher !</summary>
 
     !!! snippet "Note"
         Cette méthode se traduira par le Joy-Con droit étant détecté comme en mode sans fil lorsqu’il est attaché à la Switch. De plus, cette méthode peut entraîner le Joy-Con à être détecté en permanence comme étant une manette sans fil si vous mettez à jour le Joy-Con pendant que ce mod est installé. Si tel est le cas, pour résoudre ce problème, il faut ouvrir le Joy-Con et réinitialiser la batterie.
