@@ -35,7 +35,7 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 !!! tip ""
     Ce guide a pour objectif final de prendre une Switch non modifiée à l'état "stock" (nom de l'état sans modifications) au CFW Atmosphère.
 
-    fusée-gelée est actuellement la meilleure méthode de lancement du CFW qui nous donne presque un vontrôle total du système. Il utilise une vulnérabilité dans le bootROM des systèmes Switch de première génération, ce qui nous permet d’envoyer n’importe quel payload dans le mode de récupération de la Switch (RCM), au lieu de seulement ceux que Nintendo a autorisé.
+    fusée-gelée est actuellement la meilleure méthode de lancement du CFW qui nous donne presque un contrôle total du système. Il utilise une vulnérabilité dans le bootROM des systèmes Switch de première génération, ce qui nous permet d’envoyer n’importe quel payload dans le mode de récupération de la Switch (RCM), au lieu de seulement ceux que Nintendo a autorisé.
 
 ### Que puis-je faire avec un Custom Firmware ?
 
