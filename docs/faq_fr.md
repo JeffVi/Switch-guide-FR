@@ -160,7 +160,7 @@
     1. Lancez Hekate en suivant [ces instructions](user_guide/emummc/sending_payload_fr.md) si vous ne savez plus comment faire.
     2. Appuyez sur `Tools`.
     3. Dans le coin inférieur gauche appuyez sur `Archive bit * AutoRCM`
-    4. Appuyez sur `Unset Archive bit`. Cela peut prendre un certain temps.
+    4. Appuyez sur `Fix Archive bit`. Cela peut prendre un certain temps.
     5. Appuyez sur `Close` dans le coin supérieur droit.
     6. Appuyez sur `Home` pour revenir au menu principal.
     7. Lancez le CFW Atmosphère (si vous ne savez plus comment faire, se renseigner [ici](user_guide/emummc/launching_cfw_fr.md)).
