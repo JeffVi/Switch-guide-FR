@@ -59,6 +59,14 @@ Vous pouvez ajouter un DNS personnalisé à votre connexion WiFi qui bloquera to
     3. Choisissez le serveur qui est le plus proche de votre emplacement géographique à partir du tableau ci-dessous et entrez son `DNS Primaire` et `DNS Secondaire` dans les paramètres.
     4. Sauvegardez les paramètres et testez la connexion.
 
+    ### Utiliser un homebrew pour mettre en place 90dns sur toutes les connections existantes
+    1. Téléchargez [switch-90dns-setter](https://github.com/suchmememanyskill/switch-90dns-setter/releases) et placez le dans le dossier `switch` de votre carte SD.
+    2. Lancez le CFW et ouvrez le menu homebrew.
+    3. Lancez `90dns setter`.
+    4. Appuyez sur X pour appliquer 90dns sur toutes les connections existantes.
+    5. Appuyez sur Y pour redémarrer la console.
+    6. Vérifiez dans les paramètres système que les connections possèdent bien des DNS personalisés.
+
    
 | Lieu                                  | DNS Primaire        | DNS Secondaire      |
 |:--------------------------------------|:--------------------|:--------------------|
