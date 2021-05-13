@@ -85,7 +85,7 @@ L'information qui suit est basée sur cette [discussion de GBATemp](https://gbat
 | 5.0.0 - 7.0.0  | [**RCM**](rcm_fr.md)               | En attente de CFW          | **N/A**                     | **N/A**                |
 | 7.0.1          | [**RCM**](rcm_fr.md)               | En attente de CFW          | Cart update to 8.0.1        | **N/A**                |
 | 8.0.1          | [**RCM**](rcm_fr.md)               | En attente de homebrew     | En attente de homebrew      | En attente de homebrew |
-| 8.1.0 - 12.0.1 | [**RCM**](rcm_fr.md)               | Non hackable (aujourd'hui) | Non hackable (aujourd'hui)  | Non hackable (aujourd'hui) |
+| 8.1.0 - 12.0.2 | [**RCM**](rcm_fr.md)               | Non hackable (aujourd'hui) | Non hackable (aujourd'hui)  | Non hackable (aujourd'hui) |
 
 &nbsp;
 
