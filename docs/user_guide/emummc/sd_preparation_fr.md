@@ -33,7 +33,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée (primary). 
     2. Copiez *le contenu* du fichier `.zip` Atmosphere à la racine de votre carte SD.
     3. Copiez le dossier `bootloader` du fichier `.zip` Hekate à la racine de votre carte SD.
     4. Copiez le dossier `bootloader` du fichier `bootlogos.zip` à la racine de votre carte SD.
-       - Si on vous demande de fusionner les dossiers, faites le.
+         - Si on vous demande de fusionner les dossiers, faites le.
     5. Copiez le fichier `hekate_ipl.ini` dans le dossier `bootloader` sur votre carte SD.
     6. Copiez le fichier `Lockpick_RCM.bin` dans le dossier `/bootloader/payloads` sur votre carte SD.
     7. Créez un dossier `hosts` dans le dossier `atmosphere` sur votre carte SD, et mettez le fichier `emummc.txt` à l'intérieur.
