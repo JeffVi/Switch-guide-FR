@@ -6,18 +6,18 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <meta name="author" content="NH Discord Server.">
-        
+        <link rel="canonical" href="https://jeffvi.github.io/Switch-guide-FR/faq_fr/">
         <link rel="shortcut icon" href="../img/favicon.ico">
         <title>FAQ - NH Switch Guide</title>
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/darcula.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/darcula.min.css">
         <link href="../css/custom.css" rel="stylesheet">
 
         <script src="../js/jquery-1.10.2.min.js" defer></script>
         <script src="../js/bootstrap.min.js" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
         <script>hljs.initHighlightingOnLoad();</script> 
     </head>
 
@@ -286,7 +286,7 @@ Sur chaque boot, le firmware de la Switch compare le nombre de fusibles électro
 Les mises à jour majeures de la Switch, ou mises à jour dans lesquelles une vulnérabilité système a été patchée, brûlent irréversiblement l’un des 64 « fusibles électroniques » de la Switch. 
 <em>Si jamais la Switch détecte qu’un plus grand nombre de fusibles électroniques ont été brûlés que ce qui était prévu prévu (ce qui signifie qu’un downgrade s’est produit), elle refusera de démarrer. Remplacer les fusibles électroniques n’est pas une option.</em>
 Vous pouvez trouver plus d’informations sur les fusibles <a href="https://switchbrew.org/wiki/Fuses#Anti-downgrade" target="_blank">ici</a>
-Atmosphère 0.19.3 fonctionne très bien avec la nouvelle mise à jour du firmware 12.0.2 sur les unités non patchées. La situation des unités patchées est celle-ci :</p>
+Atmosphère 0.19.4 fonctionne très bien avec la nouvelle mise à jour du firmware 12.0.3 sur les unités non patchées. La situation des unités patchées est celle-ci :</p>
 <ul>
 <li>
 <p><strong>"Anciennes"</strong> <em>Switch patchée (HAC-001) : Ne mettez PAS à jour au-delà de 7.0.1. Les consoles tournant sur 7.0.1 et moins finiront par obtenir un CFW. Les unités patchées qui sont au firmware 8.0.0 ou 8.0.1 recevront probablement des homebrews.</em></p>
@@ -394,16 +394,13 @@ Amazon a eu quelques problèmes avec des fausses cartes SD, nous vous recommando
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
             </div>
             <div class="modal-body">
-                <p>
-                    From here you can search these documents. Enter
-                    your search terms below.
-                </p>
+                <p>From here you can search these documents. Enter your search terms below.</p>
                 <form>
                     <div class="form-group">
                         <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
                     </div>
                 </form>
-                <div id="mkdocs-search-results"></div>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
             </div>
             <div class="modal-footer">
             </div>
