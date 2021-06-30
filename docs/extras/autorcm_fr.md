@@ -35,5 +35,5 @@ Si, malgré tous les avertissements ci-dessus, vous souhaitez toujours installer
 
 1. Lancez Hekate
 2. Allez dans `Tools`
-3. En bas du menu, appuyez sur `Archive bit - AutoRCM`
+3. En bas du menu, appuyez sur `Arch Bit • AutoRCM • Touch • Pkg1/2`
 4. Appuyez sur `AutoRCM`. Cela affichera un `ON` à côté de l'option une fois le processus mis en place.
