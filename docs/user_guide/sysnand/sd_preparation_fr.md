@@ -18,7 +18,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée (primary). 
 ### Ce dont vous avez besoin
 
 !!! tip ""
-    - La dernière version de <a href="https://github.com/CTCaer/Hekate/releases/" target="_blank">Hekate</a> (Téléchargez `hekate_ctcaer_(version).zip` dans les assets)
+    - La dernière version de <a href="https://github.com/CTCaer/Hekate/releases/" target="_blank">Hekate</a> (Téléchargez `hekate_ctcaer_(version)_Nyx_(version).zip` dans les assets)
     - Le fichier de configuration Hekate : <a href="../../../files/sys/hekate_ipl.ini" download>hekate_ipl.ini</a>
     - Le dossier bootlogo.zip : <a href="../../../files/bootlogos.zip" download>bootlogos.zip</a>
     - La dernière version de <a href="https://github.com/Atmosphere-NX/Atmosphere/releases" target="_blank">Atmosphère</a> (Téléchargez `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip` dans les assets).
