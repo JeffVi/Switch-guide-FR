@@ -21,7 +21,7 @@
 
 
 !!! danger "Important"
-    Un backup (sauvegarde) de la NAND backup est crucial. Il peut être utilisé pour réparer le système en cas d'urgence.
+    Un backup (sauvegarde) de la NAND est crucial. Il peut être utilisé pour réparer le système en cas d'urgence.
 
 	Une fois la sauvegarde terminée, **gardez-la dans un endroit sûr.** La meilleure sauvegarde est celle que vous avez mais dont vous n'avez jamais besoin, et la pire sauvegarde est celle dont vous avez besoin mais que vous n'avez pas. Pour économiser de l’espace, il est recommandé de compresser le résultat final dans un fichier « .zip » ou quelque chose de similaire.
 
