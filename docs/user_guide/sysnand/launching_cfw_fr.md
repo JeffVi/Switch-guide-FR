@@ -2,7 +2,7 @@
 
 Maintenant que la préparation est terminée, nous sommes enfin prêts à lancer le custom firmware sur la Switch.
 
-Contrairement à des systèmes tels que la DSi, la wii, ou la 3DS, le CFW de la Switch est actuellement volatile (il ne fonctionnera que tant que votre console est allumée. Dès que votre Switch s'éteint pour n'importe quelle raison (arrêt, plus de batterie, etc.), le CFW ne sera plus actif et vous devrez suivre ces instructions à nouveau.
+Contrairement à des systèmes tels que la DSi, la wii, ou la 3DS, le CFW de la Switch est actuellement volatile. Il ne fonctionnera que tant que votre console est allumée. Dès que votre Switch s'éteint pour n'importe quelle raison (arrêt, plus de batterie, etc.), le CFW ne sera plus actif et vous devrez suivre ces instructions à nouveau.
 &nbsp;
 
 ### Instructions
@@ -23,7 +23,7 @@ Pour vérifier qu'Atmosphère a été lancé correctement, ouvrez l’applet Par
 
 &nbsp;
 
-### Présentation des homebrews inclus
+### Lancer le menu homebrew
 
 Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant le bouton R tout en lançant n’importe quel jeu (y compris les démos/cartouches) ou une application (par exemple Youtube/Hulu). Si R n’est pas tenu, le jeu ou l’application sera lancé comme d’habitude.
     
