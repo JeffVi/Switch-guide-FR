@@ -23,7 +23,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée (primary). 
     - Le dossier bootlogo.zip : <a href="../../../files/bootlogos.zip" download>bootlogos.zip</a>
     - La dernière version de <a href="https://github.com/Atmosphere-NX/Atmosphere/releases" target="_blank">Atmosphère</a> (Téléchargez `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip` dans les assets).
     - La dernière version de <a href="https://github.com/shchmue/Lockpick_RCM/releases" target="_blank">Lockpick_RCM</a> (Téléchargez `Lockpick_RCM.bin` dans les assets)
-    - La dernière version de <a href="https://github.com/FlagBrew/SciresM/releases" target="_blank">Checkpoint</a> (Téléchargez `Checkpoint.nro` dans les assets). Notez qu'il s'agit d'un correctif car la dernière version de la team FlagBrew ne fonctionne pas actuellement.
+    - La dernière version de <a href="https://github.com/SciresM/Checkpoint/releases" target="_blank">Checkpoint</a> (Téléchargez `Checkpoint.nro` dans les assets). Notez qu'il s'agit d'un correctif car la dernière version de la team FlagBrew ne fonctionne pas actuellement.
     - La dernière version de <a href="https://github.com/mtheall/ftpd/releases" target="_blank">FTPD</a> (Téléchargez `ftpd.nro` dans les assets)
     - La dernière version de <a href="https://github.com/exelix11/SwitchThemeInjector/releases" target="_blank">NXThemeInstaller</a> (Téléchargez `NxThemesInstaller.nro` dans les assets)
     - La dernière version de <a href="https://github.com/joel16/NX-Shell/releases" target="_blank">NX-Shell</a> (Téléchargez `NX-Shell.nro` dans les assets)
