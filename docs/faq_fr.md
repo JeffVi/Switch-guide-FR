@@ -7,7 +7,7 @@
     Toute console achetée après août 2018 est **probablement** patchée. Cela inclut les dernières unités produites, appelées « boîte rouge » ou « Mariko ».
     Mariko est un modèle patché, mais qui peut posséder sur un firmware vulnérable.
     Actuellement, la seule façon de savoir si votre Switch est hackable est en essayant d’envoyer un payload en RCM.
-    Même patchées, de nombreuses consoles en 8.0.1 et moins seront hackables dans une certaine mesure à l’avenir (voir [Dois-je mettre à jour mon Firmware ?] (#dois-je-mettre-a-jour-mon-firmware) pour des informations beaucoup plus détaillées).
+    Même patchées, de nombreuses consoles en 8.0.1 et moins seront hackables dans une certaine mesure à l’avenir (voir la section `Dois-je mettre à jour mon Firmware ?` pour des informations beaucoup plus détaillées).
     Le numéro de série au dos de la boîte peut éventuellement vous dire quelles consoles sont patchées et lesquelles ne le sont pas. 
     Voir <a href="https://gbatemp.net/threads/switch-informations-by-serial-number.481215/" target="_blank">ici</a> pour une liste à jour.
 

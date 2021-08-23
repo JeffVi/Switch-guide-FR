@@ -2,7 +2,7 @@
 
 Maintenant que la préparation est terminée, nous sommes enfin prêts à lancer le custom firmware sur la Switch.
 
-Contrairement à des systèmes tels que la DSi, la wii, ou la 3DS, le CFW de la Switch est actuellement volatile. Il ne fonctionnera que tant que votre console est allumée. Dès que votre Switch s'éteint pour n'importe quelle raison (arrêt, plus de batterie, etc.), le CFW ne sera plus actif et vous devrez suivre ces instructions à nouveau.
+Contrairement à des systèmes tels que la DSi, la Wii, ou la 3DS, le CFW de la Switch est actuellement volatile. Il ne fonctionnera que tant que votre console est allumée. Dès que votre Switch s'éteint pour n'importe quelle raison (arrêt, plus de batterie, etc.), le CFW ne sera plus actif et vous devrez suivre ces instructions à nouveau.
 &nbsp;
 
 ### Instructions
