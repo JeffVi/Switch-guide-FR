@@ -8,6 +8,9 @@ Après avoir suivi notre guide, votre système sera composé de trois éléments
 
 Lors de la mise à jour d'Atmosphère assurez-vous de toujours **lire les changements apportés** (*certes en anglais mais faites un effort !*). Ils peuvent énumérer les modifications importantes apportées à votre système.
 
+!!! warning "Mettre à jour depuis une version d'Atmosphère inférieure à 1.0.0"
+    Si vous mettez à jour depuis une version d'Atmosphere inférieurs à 1.0.0, vous aurez quelques étapes supplémentaires à réaliser. Il vous faut supprimer le dossier `sept` de votre carte sd, supprimer le fichier `fusee-secondary.bin` dans votre dossier `atmosphere` et mettre à jour votre fichier de configuration de Hekate : <a href="../../files/emu/hekate_ipl.ini" download>hekate_ipl.ini</a> dans le dossier `bootloader`.
+
 Lorsqu’une nouvelle version d’Atmosphère sort, vous pouvez mettre à jour Atmosphère en suivant ces étapes :
 
 1. Éteignez votre Nintendo Switch et insérez votre carte SD dans votre ordinateur.
@@ -92,7 +95,7 @@ Si vous gardez votre emuMMC hors ligne, vous devrez utiliser une cartouche de je
 
 1. Assurez-vous que votre sysMMC est à jour. Si votre sysMMC n’est pas à jour, mettez-le à jour dans les paramètres de la console.
 2. Injectez `TegraExplorer.bin` (de la même façon que vous injectez n'importe quel payload, comme Hekate par exemple).
-3. En utilisant le stick et le bouton A, sélectionnez `Dump Firmware`.
+3. En utilisant le stick et le bouton A, sélectionnez `FirmwareDump.te`.
 4. Attendez environ 1-2 minutes pour que le processus copie votre firmware.
 5. Une fois terminé, appuyez sur n’importe quel bouton.
 6. Sélectionnez `Reboot to atmosphere/reboot_payload.bin`.

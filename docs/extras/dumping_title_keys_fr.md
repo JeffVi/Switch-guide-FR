@@ -18,6 +18,5 @@ Cette section est pour récupérer vos title keys.
 !!! tip ""
     1. Entrez en RCM et injectez le payload Hekate.
     2. Appuyez sur `Payloads` et lancez Lockpick_RCM.bin.
-    3. Si Lockpick_RCM vous demande de choisir entre SysNAND et emuMMC, choisissez SysNAND en naviguant avec les boutons de volume et en validant avec le bouton power. Si ce n’est pas le cas, continuez à l’étape 4.
-    4. Si Lockpick_RCM vous demande de `Reboot to Sept`, appuyez sur un bouton pour valider (volume ou power). Un logo "sept by Atmosphere" va apparaitre, suivit par le redémarrage de Lockpick_RCM. Si il ne vous le demande *pas*, continuer à l’étape 5.
-    5. Lockpick_RCM devrait maintenant vous informer que vos clés ont été sauvegardées dans `/switch/prod.keys` sur la carte SD.
+    3. Si Lockpick_RCM vous demande de choisir entre SysNAND et EmuNAND, choisissez SysNAND en naviguant avec les boutons de volume et en validant avec le bouton power.
+    5. Lockpick_RCM devrait maintenant vous informer que vos clés ont été sauvegardées dans `/switch/title.keys` sur la carte SD.

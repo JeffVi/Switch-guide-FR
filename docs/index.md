@@ -53,11 +53,10 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 
     Vous aurez besoin **de l’un** des éléments suivants afin de poursuivre avec ce guide :
 
-    - Un câble USB-A vers USB-C, et un PC
-    - Un câble USB-OTG, un câble USB-A vers USB-C et un appareil Android
-		- Cela ne fonctionne pas sur tous les téléphones Android
-    - Un câble USB-C, et un appareil Android avec un port USB-C
-    - Un adaptateur Lightning-OTG, un câble USB-A vers USB-C et un appareil iOS jailbreaké
+    - Un PC et un câble USB capable de transférer des données entre votre Switch et votre PC
+    - Un appareil Android et un câble USB capable de transférer des données entre votre Switch et votre appareil Android
+    	- Cela ne fonctionne pas sur tous les téléphones Android
+    - Un adaptateur Lightning-OTG, un appareil iOS jailbreaké et un câble USB capable de transférer des données entre votre Switch et l'adaptateur
         - Cette méthode n’est pas présentée dans ce guide, mais vous pouvez en savoir plus à ce sujet sur [ce site](https://mologie.github.io/nxboot/)
 
 

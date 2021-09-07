@@ -40,7 +40,7 @@ Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant
 !!! tip ""
     - Checkpoint est un gestionnaire de fichiers de sauvegarde, il peut copier et restaurer les sauvegardes de votre système. Pour plus d’informations, voir [Gestion des sauvegardes](../../extras/save_management_fr.md).
 
-    - FTPD est un outil ftp pour connecter sans fil la carte sd de votre Switch à votre PC. Des outils comme Filezilla peuvent se connecter à votre Switch sur `(ip de la Switch):5000`.
+    - FTPD est un outil ftp pour connecter sans fil la carte sd de votre Switch à votre PC. Des outils comme WinSCP peuvent se connecter à votre Switch sur `(ip de la Switch):5000`.
 
     - NX-Shell est un explorateur de fichiers pour la Switch. Vous pouvez déplacer des fichiers, écouter des fichiers mp3, voir des images, etc.
 

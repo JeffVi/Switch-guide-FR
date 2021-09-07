@@ -52,12 +52,11 @@
     1. Entrez en RCM et injectez le payload Hekate
     2. Cliquez sur le bouton `Payloads` et lancez Lockpick_RCM.bin.
     3. Si Lockpick_RCM vous demande de choisir entre SysNAND et emuMMC, choisissez SysNAND en naviguant avec les boutons de volume et en validant avec le bouton power. Si ce n’est pas le cas, continuez à l’étape 4.
-    4. Si Lockpick_RCM vous demande de `Reboot to Sept`, appuyez sur un bouton pour valider (volume ou power). Un logo "sept by Atmosphere" va apparaitre, suivit par le redémarrage de Lockpick_RCM. Si il ne vous le demande *pas*, continuer à l’étape 5.
-    5. Lockpick_RCM devrait maintenant vous informer que vos clés ont été sauvegardées dans `/switch/prod.keys` sur la carte SD.
-    6. Appuyez sur un bouton pour revenir au menu.
-    7. Allez sur `Power off` avec les boutons de volume et validez avec le bouton power.
-    8. Insérez votre carte SD dans votre PC.
-    9. Copiez le fichier `prod.keys` du dossier `switch` de votre carte SD card sur votre PC afin de le conserver précieusement. *Ne les supprimez pas de la carte SD !*
+    4. Lockpick_RCM devrait maintenant vous informer que vos clés ont été sauvegardées dans `/switch/prod.keys` sur la carte SD.
+    5. Appuyez sur un bouton pour revenir au menu.
+    6. Allez sur `Power off` avec les boutons de volume et validez avec le bouton power.
+    7. Insérez votre carte SD dans votre PC.
+    8. Copiez le fichier `prod.keys` du dossier `switch` de votre carte SD card sur votre PC afin de le conserver précieusement. *Ne les supprimez pas de la carte SD !*
 
 &nbsp;
 

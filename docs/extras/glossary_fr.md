@@ -38,6 +38,6 @@ Les termes sont rangés par ordre alphabétique
 
 Les ressources ci-dessous sont pour les utilisateurs et les développeurs intéressés par le développement Homebrew ou pour ceux qui veulent obtenir une compréhension plus technique des différents concepts.
 
-- La [FAQ ReSwitched](https://reswitched.team/faq/) donne un aperçu général du fonctionnement de la Switch.
+- La [FAQ ReSwitched](https://reswitched.github.io/faq/) donne un aperçu général du fonctionnement de la Switch.
 - [Switchbrew](https://switchbrew.org) est un wiki détaillant le fonctionnement interne du firmware de la Nintendo Switch.
 - [documentation libNX](https://switchbrew.github.io/libnx/index.html). LibNX est la bibliothèque utilisée pour développer Homebrew sur la Nintendo Switch.

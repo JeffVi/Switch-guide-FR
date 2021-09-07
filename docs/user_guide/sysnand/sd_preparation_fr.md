@@ -2,7 +2,7 @@
 
 Nous allons maintenant placer les fichiers requis pour le CFW Atmosphère et quelques fichiers homebrew supplémentaires sur la carte SD.
 
-Atmosphère possède son propre bootloader (payload), appelé fusée (primary). Pour les besoins de ce guide, nous utiliserons Hekate à la place, afin que nous puissions récupérer la NAND (stockage interne) du système et profiter d’autres fonctionnalités avancées à l’avenir.
+Atmosphère possède son propre bootloader (payload), appelé fusée. Pour les besoins de ce guide, nous utiliserons Hekate à la place, afin que nous puissions récupérer la NAND (stockage interne) du système et profiter d’autres fonctionnalités avancées à l’avenir.
 
 &nbsp;
 
