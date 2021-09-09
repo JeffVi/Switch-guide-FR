@@ -188,7 +188,7 @@
 
 <h1 id="preparation-de-la-carte-sd">Préparation de la carte SD</h1>
 <p>Nous allons maintenant placer les fichiers requis pour le CFW Atmosphère et quelques fichiers homebrew supplémentaires sur la carte SD.</p>
-<p>Atmosphère possède son propre bootloader (payload), appelé fusée (primary). Pour les besoins de ce guide, nous utiliserons Hekate à la place, afin que nous puissions récupérer la NAND (stockage interne) du système et profiter d’autres fonctionnalités avancées à l’avenir.</p>
+<p>Atmosphère possède son propre bootloader (payload), appelé fusée. Pour les besoins de ce guide, nous utiliserons Hekate à la place, afin que nous puissions récupérer la NAND (stockage interne) du système et profiter d’autres fonctionnalités avancées à l’avenir.</p>
 <p>&nbsp;</p>
 <div class="admonition warning">
 <p class="admonition-title">Extensions de noms de fichiers</p>
@@ -229,6 +229,10 @@
 <li>Si vous utilisiez déjà votre carte microSD comme périphérique de stockage pour vos jeux et que vous avez conservé votre dossier <code>Nintendo</code> avant de partitionner votre carte microSD, replacez le à la racine de votre carte microSD.</li>
 <li>Réinsérez votre carte SD dans votre Switch.</li>
 </ol>
+<div class="admonition danger">
+<p class="admonition-title">À propos du fichier emummc.txt</p>
+<p>Placer le fichier <code>emummc.txt</code> de ce guide dans <code>/atmosphere/hosts</code> empêchera votre emuMMC (emuNAND) de se connecter à Nintendo. Ne pas le faire entraînera probablement un banissement de la console.</p>
+</div>
 <div class="admonition tip">
 <p>Votre carte SD devrait ressembler à ça. Le dossier <code>Nintendo</code> n'est pas présent si vous n'avez jamais utilisé votre carte SD avec votre Switch.
 <img alt="sdfilesimg" src="../../img/sdfiles.png" /></p>
