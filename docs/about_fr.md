@@ -19,6 +19,7 @@ Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo 
     - **switchbrew** pour [nx-hbloader](https://github.com/switchbrew/nx-hbloader) et [nx-hbmenu](https://github.com/switchbrew/nx-hbmenu).
     - **nwert** et **CTCaer** pour [Hekate](https://github.com/CTCaer/hekate).
     - **WerWolv** pour [EdiZon](https://github.com/WerWolv/EdiZon/releases).
+    - **J-D-K** pour [JKSV](https://github.com/J-D-K/JKSV).
     - **Flagbrew** pour [Checkpoint](https://github.com/FlagBrew/Checkpoint).
     - **mtheall** pour [FTPD](https://github.com/mtheall/ftpd/).
     - **joel16** pour [NX-Shell](https://github.com/joel16/NX-Shell).

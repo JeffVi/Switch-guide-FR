@@ -20,7 +20,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée. Pour les b
     - Le dossier bootlogo.zip : <a href="../../../files/bootlogos.zip" download>bootlogos.zip</a>
     - La dernière version de <a href="https://github.com/Atmosphere-NX/Atmosphere/releases" target="_blank">Atmosphère</a> (Téléchargez `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip` dans les assets).
     - La dernière version de <a href="https://github.com/shchmue/Lockpick_RCM/releases" target="_blank">Lockpick_RCM</a> (Téléchargez `Lockpick_RCM.bin` dans les assets)
-    - La dernière version de <a href="https://github.com/SciresM/Checkpoint/releases" target="_blank">Checkpoint</a> (Téléchargez `Checkpoint.nro` dans les assets). Notez qu'il s'agit d'un correctif car la dernière version de la team FlagBrew ne fonctionne pas actuellement.
+    - La dernière version de <a href="https://github.com/J-D-K/JKSV/releases" target="_blank">JKSV</a> (Téléchargez `JKSV.nro` dans les assets)
     - La dernière version de <a href="https://github.com/mtheall/ftpd/releases" target="_blank">FTPD</a> (Téléchargez `ftpd.nro` dans les assets)
     - La dernière version de <a href="https://github.com/exelix11/SwitchThemeInjector/releases" target="_blank">NXThemeInstaller</a> (Téléchargez `NxThemesInstaller.nro` dans les assets)
     - La dernière version de <a href="https://github.com/joel16/NX-Shell/releases" target="_blank">NX-Shell</a> (Téléchargez `NX-Shell.nro` dans les assets)
@@ -38,7 +38,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée. Pour les b
     6. Copiez le fichier `Lockpick_RCM.bin` dans le dossier `/bootloader/payloads` sur votre carte SD.
     7. Créez un dossier `hosts` dans le dossier `atmosphere` sur votre carte SD, et mettez le fichier `emummc.txt` à l'intérieur.
     8. Créez un dossier `appstore` dans le dossier `switch` sur votre carte SD, et mettez le fichier `appstore.nro` à l'intérieur.
-    9. Copiez les fichiers `Checkpoint.nro`, `ftpd.nro`, `NX-Shell.nro` et `NxThemesInstaller.nro` dans le dossier `switch` sur votre carte SD.
+    9. Copiez les fichiers `JKSV.nro`, `ftpd.nro`, `NX-Shell.nro` et `NxThemesInstaller.nro` dans le dossier `switch` sur votre carte SD.
     10. Si vous utilisiez déjà votre carte microSD comme périphérique de stockage pour vos jeux et que vous avez conservé votre dossier `Nintendo` avant de partitionner votre carte microSD, replacez le à la racine de votre carte microSD.
     11. Réinsérez votre carte SD dans votre Switch.
 
