@@ -96,9 +96,10 @@ Si vous gardez votre emuMMC hors ligne, vous devrez utiliser une cartouche de je
 1. Assurez-vous que votre sysMMC est à jour. Si votre sysMMC n’est pas à jour, mettez-le à jour dans les paramètres de la console.
 2. Injectez `TegraExplorer.bin` (de la même façon que vous injectez n'importe quel payload, comme Hekate par exemple).
 3. En utilisant le stick et le bouton A, sélectionnez `FirmwareDump.te`.
-4. Attendez environ 1-2 minutes pour que le processus copie votre firmware.
-5. Une fois terminé, appuyez sur n’importe quel bouton.
-6. Sélectionnez `Reboot to atmosphere/reboot_payload.bin`.
+4. Sélectionnez `Dump sysmmc`.
+5. Attendez environ 1-2 minutes pour que le processus copie votre firmware.
+6. Une fois terminé, appuyez sur n’importe quel bouton.
+7. Sélectionnez `Reboot to atmosphere/reboot_payload.bin`.
 
 ### Mettre à jour votre emuMMC avec Daybreak
 
