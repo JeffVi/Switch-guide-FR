@@ -42,7 +42,7 @@ Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant
 ### Présentation des homebrews inclus
 
 !!! tip ""
-    - Checkpoint est un gestionnaire de fichiers de sauvegarde, il peut copier et restaurer les sauvegardes de votre système. Pour plus d’informations, voir [Gestion des sauvegardes](../../extras/save_management_fr.md).
+    - JKSV est un gestionnaire de fichiers de sauvegarde, il peut copier et restaurer les sauvegardes de votre système. Pour plus d’informations, voir [Gestion des sauvegardes](../../extras/save_management_fr.md).
 
     - FTPD est un outil ftp pour connecter sans fil la carte sd de votre Switch à votre PC. Des outils comme WinSCP peuvent se connecter à votre Switch sur `(ip de la Switch):5000`.
 
@@ -52,3 +52,9 @@ Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant
 
     - hbappstore est un eShop d’applications homebrew où une grande collection de homebrew pour la Switch est disponible.
 
+&nbsp
+
+### Mettre à jour votre setup
+
+!!! tip ""
+        Quand une nouvelle mise à jour de la console est disponible, vous devrez certainement mettre à jour vos fichier pour le CFW. Pour ce faire, suivez les instrucrions de [cette page](../../extras/updating_fr.md).
