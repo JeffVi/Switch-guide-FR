@@ -52,7 +52,7 @@ Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant
 
     - hbappstore est un eShop d’applications homebrew où une grande collection de homebrew pour la Switch est disponible.
 
-&nbsp
+&nbsp;
 
 ### Mettre à jour votre setup
 
