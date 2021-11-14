@@ -57,4 +57,4 @@ Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant
 ### Mettre à jour votre setup
 
 !!! tip ""
-        Quand une nouvelle mise à jour de la console est disponible, vous devrez certainement mettre à jour vos fichier pour le CFW. Pour ce faire, suivez les instrucrions de [cette page](../../extras/updating_fr.md).
+    Quand une nouvelle mise à jour de la console est disponible, vous devrez certainement mettre à jour vos fichier pour le CFW. Pour ce faire, suivez les instrucrions de [cette page](../../extras/updating_fr.md).
