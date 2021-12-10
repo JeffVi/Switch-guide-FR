@@ -36,7 +36,7 @@ Lorsqu’une nouvelle version d’Hekate sort, vous pouvez mettre à jour Atmosp
 
 Vérifiez toujours **avant** de mettre à jour votre firmware système si la dernière version d’Atmosphère, **ainsi** que la dernière version de Hekate, prennent en charge la version firmware que vous mettez à jour.
 
-Actuellement, la dernière version prise en charge par Atmosphere et Hekate est: **13.1.0**.
+Actuellement, la dernière version prise en charge par Atmosphere et Hekate est: **13.2.0**.
 
 En outre, certaines versions de firmwares mettent à jour le firmware du lecteur de cartouche. Référez-vous au le tableau ci-dessous pour plus d’informations à ce sujet.
 
