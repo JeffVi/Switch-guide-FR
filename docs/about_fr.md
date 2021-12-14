@@ -12,6 +12,7 @@ Ce guide a été rédigé par des membres du staff du [serveur discord Nintendo 
     Merci à [tout ceux](https://github.com/nh-server/switch-guide/graphs/contributors) qui ont contribué à la mise en place du guide sur GitHub, et plus particulièrement à **noirscape**.
 
 !!! tip ""
+    [Vous pouvez trouver ce guide sur GitHub](https://github.com/JeffVi/Switch-guide-FR)
     [Vous pouvez trouver la version originale de ce guide sur GitHub](https://github.com/nh-server/switch-guide), dont vous trouverez la license ici [ISC license.](https://github.com/nh-server/switch-guide/blob/master/LICENSE.md)
 
 !!! tip "Développeurs, développeuses / credits pour les outils"

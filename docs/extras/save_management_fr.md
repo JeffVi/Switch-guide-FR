@@ -13,7 +13,7 @@ Prenez le temps de lire la [page d'accueil de JKSV](https://github.com/J-D-K/JKS
 	![ExampleSwitchTheme](../extras/img/save_jksv.jpg)
 
 ### Checkpoint
-Prenez le temps de lire la [page de présentation de Checkpoint](https://github.com/SciresM/Checkpoint) pour plus d'informations.
+Prenez le temps de lire la [page de présentation de Checkpoint](https://github.com/flagbrew/checkpoint) pour plus d'informations.
 
 !!! tip ""
 	![ExampleSwitchTheme](../extras/img/save_checkpoint.jpg)
