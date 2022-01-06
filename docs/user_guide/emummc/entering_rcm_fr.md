@@ -28,11 +28,9 @@ Il y a plusieures façons d'accéder au RCM (**R**e**C**overy **M**ode). La plus
         <summary>Cliquez pour afficher !</summary>
 
     !!! snippet "Note"
-        Quelques jig ont le même design qu'un trombone, et héritent donc des risques encourus par la méthode du pont en métal/trombone. Si vous souhaitez un jig sécurisé, nous recommandons [switchjigs.com](https://switchjigs.com).
+        Quelques jigs ont le même design qu'un trombone, et héritent donc des risques encourus par la méthode du pont en métal/trombone.
 
     Cette méthode est similaire au pont en métal/trombone, mais elle est beaucoup plus efficace et sûre. Les jigs contiennent un fil de fer qui permet de relier le pin numéro 10 à la terre.
-
-    Les jigs que nous recommandons sont légèrement plus chers que ceux produits en masse, mais nous pouvons garantir leur qualité.
 
     !!! tip ""
         ![switchjigs.com jigs](../img/entering_rcm_jig.jpg)

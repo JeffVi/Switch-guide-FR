@@ -7,7 +7,7 @@
     Toute console achetée après août 2018 est **probablement** patchée. Cela inclut les dernières unités produites, appelées « boîte rouge » ou « Mariko ».
     Mariko est un modèle patché, mais qui peut posséder sur un firmware vulnérable.
     Actuellement, la seule façon de savoir si votre Switch est hackable est en essayant d’envoyer un payload en RCM.
-    Même patchées, de nombreuses consoles en 8.0.1 et moins seront hackables dans une certaine mesure à l’avenir (voir la section `Dois-je mettre à jour mon Firmware ?` pour des informations beaucoup plus détaillées).
+    Même patchées, de nombreuses consoles en 8.0.1 et moins seront hackables dans une certaine mesure à l’avenir (voir la section [Dois-je mettre à jour mon Firmware ?](#dois-je-mettre-à-jour-mon-firmware) pour des informations beaucoup plus détaillées).
     Le numéro de série au dos de la boîte peut éventuellement vous dire quelles consoles sont patchées et lesquelles ne le sont pas. 
     Voir <a href="https://gbatemp.net/threads/switch-informations-by-serial-number.481215/" target="_blank">ici</a> pour une liste à jour.
 
@@ -27,13 +27,13 @@
 
 !!!tip ""
     La plupart des gens préfèrent utiliser des jigs imprimés en 3D pour entrer dans en RCM. 
-    Ces jigs sont fabriqués de façon à ce qu’ils se glissent dans le rail joycon droit et ont un morceau de fil en métal qui fait un ponts entre le pin 10 et l’un des pins de terre. 
-    Beaucoup de modèles de jigs différents existent, mais il est important de comprendre que ces jigs peuvent endommager la Switch si ils sont faits dans le mauvais sens.
+    Ces jigs sont fabriqués de façon à ce qu’ils se glissent dans le rail du joycon droit et ont un morceau de fil en métal qui fait un ponts entre le pin 10 et l’un des pins de terre. 
+    Beaucoup de modèles de jigs différents existent, mais il est important de comprendre que ces jigs peuvent endommager la Switch si ils sont mal faits.
 
     Puisque le fil dans le jig est censé toucher les pins à l’intérieur du rail joycon de la Switch, il est important que le fil employé soit mince, pas rigide et pas plié/pas pointu. 
     Les trombones forment des jigs potentiellement dangereux, car ils sont fabriqués à partir d’un matériau dur, sont rigides, pointus, et peuvent facilement rayer les pads à l’intérieur de la Switch. 
-    Un bon jig a un fil de 0,2mm de diamètre qui est plié d’une manière à que l’extrémité du fil ne gratte pas sur les garnitures pads. <a href="https://switchjigs.com/" target="_blank">Switch Jigs</a> vendent des jigs que nous considérons "bons". 
-    Vous pouvez également télécharger et imprimer en 3D votre propre jig et utiliser les photos sur le site web pour vous guider sur la façon de plier le fil correctement.
+    Un bon jig a un fil de 0,2mm de diamètre qui est plié d’une manière à ce que l’extrémité du fil ne gratte pas sur les pads. 
+    Vous pouvez également télécharger et imprimer en 3D votre propre jig et utiliser les photos de [ce site web](https://www.thingiverse.com/thing:2892320) pour vous guider sur la façon de plier le fil correctement.
 
 
 ## Y a-t-il un moyen plus facile d’entrer en RCM ?
@@ -144,11 +144,6 @@
 
     
     Si vous suspectez voutre carte dêtre une fausse, vous pouvez suivre les instructions données <a href="https://3ds.eiphax.tech/sd.html" target="_blank">ici</a> (*en anglais*) pour vérifier l’intégrité de votre carte SD.
-
-## Les jigs Amazon/eBay/Aliexpress
-
-!!!tip ""
-    Bien que certains jigs Switch sont à vendre sur ces sites Web, nous n’avons aucun moyen de vérifier qu’ils sont appropriés et sécurisés pour le Switch. *Aujourd'hui, nous ne recommandons pas l’achat à partir de ces sites Web.* Les seuls vendeurs en qui nous avons confiance en raison de leur réputation et de notre expérience globale avec les nombreux jigs qu’ils ont envoyés est <a href="https://switchjigs.com/" target="_blank">Switch Jigs</a>.
 
 
 

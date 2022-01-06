@@ -23,11 +23,24 @@ Maintenant que votre console est en RCM, nous devons lui envoyer un payload. La 
 !!! tip ""
     1. Lancez TegraRcmGUI.
     2. Allez dans l'onglet `Settings`, puis appuyez sur `Install Driver` et suivez les instructions à l'écran.
+        - Si vous rencontrez des erreurs lors de l'installation du pilote (driver), suivez la section [d'installation du pilote avec Zadig](#installation-du-pilote-avec-zadig) plus bas.
     3. Connectez votre Swith en RCM à votre PC avec le câble USB.
     4. Allez dans l'onglet `Payload` de TegraRcmGUI.
         - Votre Switch devrait être détectée sur l'icône en bas à droite de l'application.
-    5. Appuyer sur le dossier à côté du bouton `Inject payload`, naviguez sur votr PC et sélectionnez votre payload (fichier `.bin`).
-    6. Cliquez sur `Inject payload` pour lancer le payload sélectionné.
+    5. Appuyer sur le dossier à côté du bouton `Inject payload`, naviguez sur votr PC et sélectionnez votre payload (le fichier hekate_ctcare `.bin`).
+    6. Cliquez sur `Inject payload` pour lancer Hekate.
+
+### Installation du pilote avec Zadig
+
+!!! tip ""
+    Suivez cette procédure si vous avez des difficultés à installer le pilote avec TegraRcmGUI. Vous aurez besoin de la dernière version de <a href="https://zadig.akeo.ie" target="_blank">Zadig</a>.
+
+    1. Lancez Zadig. Dans le menu `Options`, vérifiez que l'option `List All Devices` est activée.
+    2. Connectez votre Swith en RCM à votre PC avec le câble USB.
+    3. Dans Zadig, sélectionnez "APX" dans la liste des appareils (devices).
+    4. Sélectionnez `libusbK (v3.1.0.0)` dans la liste des pilotes (drivers).
+    5. Ciquez sur `Install Driver` pour lancer l'installation du pilote.
+
 &nbsp;
 
 ## Mac / Linux
