@@ -216,14 +216,28 @@
 <div class="admonition tip">
 <ol>
 <li>Lancez TegraRcmGUI.</li>
-<li>Allez dans l'onglet <code>Settings</code>, puis appuyez sur <code>Install Driver</code> et suivez les instructions à l'écran.</li>
+<li>Allez dans l'onglet <code>Settings</code>, puis appuyez sur <code>Install Driver</code> et suivez les instructions à l'écran.<ul>
+<li>Si vous rencontrez des erreurs lors de l'installation du pilote (driver), suivez la section <a href="#installation-du-pilote-avec-zadig">d'installation du pilote avec Zadig</a> plus bas.</li>
+</ul>
+</li>
 <li>Connectez votre Swith en RCM à votre PC avec le câble USB.</li>
 <li>Allez dans l'onglet <code>Payload</code> de TegraRcmGUI.<ul>
 <li>Votre Switch devrait être détectée sur l'icône en bas à droite de l'application.</li>
 </ul>
 </li>
-<li>Appuyer sur le dossier à côté du bouton <code>Inject payload</code>, naviguez sur votr PC et sélectionnez votre payload (fichier <code>.bin</code>).</li>
-<li>Cliquez sur <code>Inject payload</code> pour lancer le payload sélectionné.</li>
+<li>Appuyer sur le dossier à côté du bouton <code>Inject payload</code>, naviguez sur votr PC et sélectionnez votre payload (le fichier hekate_ctcare <code>.bin</code>).</li>
+<li>Cliquez sur <code>Inject payload</code> pour lancer Hekate.</li>
+</ol>
+</div>
+<h3 id="installation-du-pilote-avec-zadig">Installation du pilote avec Zadig</h3>
+<div class="admonition tip">
+<p>Suivez cette procédure si vous avez des difficultés à installer le pilote avec TegraRcmGUI. Vous aurez besoin de la dernière version de <a href="https://zadig.akeo.ie" target="_blank">Zadig</a>.</p>
+<ol>
+<li>Lancez Zadig. Dans le menu <code>Options</code>, vérifiez que l'option <code>List All Devices</code> est activée.</li>
+<li>Connectez votre Swith en RCM à votre PC avec le câble USB.</li>
+<li>Dans Zadig, sélectionnez "APX" dans la liste des appareils (devices).</li>
+<li>Sélectionnez <code>libusbK (v3.1.0.0)</code> dans la liste des pilotes (drivers).</li>
+<li>Ciquez sur <code>Install Driver</code> pour lancer l'installation du pilote.</li>
 </ol>
 </div>
 <p>&nbsp;</p>
@@ -314,7 +328,7 @@
 
         <footer class="col-md-12">
             <hr>
-                <p>Copyright &copy; 2021 <a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>, Maintained by the <a href="/Switch-guide-FR/about_fr">NH Discord Server</a>.</p>
+                <p>Copyright &copy; 2022 <a href="https://discord.gg/C29hYvh" target="_blank">Nintendo Homebrew</a>, Maintained by the <a href="/Switch-guide-FR/about_fr">NH Discord Server</a>.</p>
             <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
         <script>
