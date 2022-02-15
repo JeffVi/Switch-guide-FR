@@ -17,7 +17,7 @@ nav:
         - 'Création emuMMC': 'user_guide/emummc/making_emummc_fr.md'
         - 'Lancer un CFW': 'user_guide/emummc/launching_cfw_fr.md'
     - Extras:
-        - 'Bloquer les mises à jour': 'extras/blocking_updates_fr.md'
+        - 'Bloquer les serveurs de Nintendo': 'extras/blocking_nintendo_fr.md'
         - 'Restaurer un backup de la NAND': 'extras/nandrestore_fr.md'
         - 'AutoRCM': 'extras/autorcm_fr.md'
         - 'Dump des Title Keys': 'extras/dumping_title_keys_fr.md'

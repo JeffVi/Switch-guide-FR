@@ -1,4 +1,4 @@
-# Bloquer les mises à jour
+# Bloquer les serveurs de Nintendo
 
 Cette page vous aidera à mettre en place une méthode pour bloquer toute communication avec Nintendo. Cela permettra d’empêcher toutes les mises à jour et les rapports d'être envoyés à Nintendo, mais cela d’empêchera également l’utilisation de l’eShop et des jeux en ligne.
 
