@@ -106,7 +106,7 @@ Si vous gardez votre emuMMC hors ligne, vous devrez utiliser une cartouche de je
 1. Dans Hekate, allez dans `Launch -> Atmosphere FSS0 Emu`.
 2. Une fois démarré, maintenez `R` tout en lançant un jeu pour démarrer le menu homebrew.
 3. Trouvez Daybreak et lancez-le.
-4. Appuyez sur `Install` et allez dans `tegraexplorer/Firmware/<votre numéro de firmware>`.
+4. Appuyez sur `Install` et allez dans `tegraexplorer/Firmware/<votre version de firmware>`.
 5. Appuyer sur `Continue` et `Preserve settings`.
     - Si vous vous voyez `Warning: exFAT firmware is missing or corrupt`, vous n’avez probablement pas les drivers (pilotes) exFAT installés sur votre sysMMC. Il suffit d’appuyer sur continuer si c’est le cas.
 6. Si possible choisissez `Install (FAT32 + exFAT)`, sinon `Install (FAT32)` puis `Continue`.

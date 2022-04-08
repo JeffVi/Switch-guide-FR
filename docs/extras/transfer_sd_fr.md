@@ -38,11 +38,11 @@ Vous devez d’abord vérifier si votre emuMMC est partitionnée ou sous forme d
 6.  Copiez le contenu de votre carte SD sur votre PC.
 7.  Suivez les instructions de [cette page](https://switchgui.de/switch-guide/user_guide/emummc/partitioning_sd_fr/) pour partitionner la "nouvelle" carte SD pour une configuration emuMMC.
 8.  Une fois que c’est fait, éteignez votre Switch, retirez votre carte SD de votre Switch et insérez la dans votre PC.
-9.  Copiez le contenu de votre "ancienne" carte SD sur votre "nouvelle".
+9.  Copiez le contenu de votre "ancienne" carte SD sur votre "nouvelle" carte SD.
 10. Allez dans le dossier `/backup/<identifiant>/` sur votre carte SD et déplacez les fichiers `BOOT0`, `BOOT1` et `rawnand.bin.xx` dans le dossier `restore`.
 11. Éjectez la carte SD et insérez-la dans votre Switch.
 12. Injectez le payload Hekate.
 13. Dans le menu principal, apuuyez sur `Tools`, puis sur `Restore eMMC`, mettez `SD emuMMC Raw Partition` (en bas de l'écran) sur `ON`.
 14. Lancez la restauration du backup en appuyant sur `SD emuMMC BOOT0 & BOOT1` et `SD emuMMC RAW GPP` (Note : raw gpp peut prendre un certain temps).
-    - Il est très important que, pour ces deux restaurations l'option `SD emuMMC Raw Partition` soit activée, sinon vous allez écraser votre sysMMC, et ce n'est pas du tout ce que vous voulez !
+    - Il est très important que, pour ces deux restaurations, l'option `SD emuMMC Raw Partition` soit activée, sinon vous allez écraser votre sysMMC, et ce n'est pas du tout ce que vous voulez !
 15. Votre emuMMC est maintenant opérationelle et vous devriez pouvoir la lancer via `Launch` -> `Atmosphere FSS0 EmuMMC` depuis Hekate.

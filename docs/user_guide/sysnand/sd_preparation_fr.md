@@ -43,7 +43,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée. Pour les b
     10. Réinsérez votre carte SD dans votre Switch.
 
     !!! tip ""
-        Votre carte SD devrait ressembler à ça. Le dossier `Nintendo` n'est pas présent si vous n'avez jamais utilisé votre carte SD avec votre Switch.
+        Votre carte SD devrait ressembler à ceci. Le dossier `Nintendo` n'est pas présent si vous n'avez jamais utilisé votre carte SD avec votre Switch.
         ![sdfilesimg](../img/sdfiles.png)
 
 &nbsp;

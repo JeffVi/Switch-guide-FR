@@ -11,5 +11,5 @@ LayeredFS, un outil intégré à Atmosphère, vous permet de remplacer les fichi
 
     Les title ID de jeux Switch peuvent être trouvés sur [http://nswdb.com/](http://nswdb.com/). Si vous avez un mod à installer, celui-ci doit être placé dans ce dossier. Ensuite, une fois que le jeu est lancé sous Atmosphère, votre mod devrait s'appliquer. Par défaut, maintenir le bouton L enfoncé pendant le lancement d'un jeu désactivera tous les mods.
     
-!!! tip "Batman in BOTW"
+!!! tip "Batman dans BOTW"
 	![ExampleGameMod](../extras/img/game_modding.jpg)

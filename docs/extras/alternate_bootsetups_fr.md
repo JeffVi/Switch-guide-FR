@@ -3,7 +3,7 @@
 Si vous avez besoin de dépanner quelque chose, ou si vous voulez essayer une configuration de démarrage différente, lisez ce qui suit.
 
 !!! danger "Ai-je besoin de cela ?"
-	À moins de rencontrer des problèmes avec le démarrage de la console ou Atmosphère lui-même, il est fortement recommandé d’utiliser le guide principal au lieu de celui-ci. Ces guides sont fournis pour des raisons d’exhaustivité.
+	À moins de rencontrer des problèmes avec le démarrage de la console ou avec Atmosphère, il est fortement recommandé d’utiliser le guide principal au lieu de celui-ci. Ces guides sont fournis pour des raisons d’exhaustivité.
 
 &nbsp;
 

@@ -25,7 +25,7 @@ Pour vérifier qu'Atmosphère a été lancé correctement, ouvrez l’applet Par
 
 ### Lancer le menu homebrew
 
-Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en tenant le bouton R tout en lançant n’importe quel jeu (y compris les démos/cartouches) ou une application (par exemple Youtube/Hulu). Si R n’est pas tenu, le jeu ou l’application sera lancé comme d’habitude.
+Vous pouvez désormais lancer le menu Homebrew en ouvrant l’album ou en maintenant le bouton R tout en lançant n’importe quel jeu (y compris les démos/cartouches) ou une application (par exemple Youtube/Hulu). Si R n’est pas tenu, le jeu ou l’application sera lancé comme d’habitude.
     
 !!! warning "Note importante sur l'utilisation de l'album pour lancer le menu homebrew"
     - L’utilisation de l’album pour lancer le menu Homebrew au lieu d’un jeu ou d’une application a plusieurs limites, tel que : une plus petite quantité de mémoire disponible (RAM), ainsi que d’être incapable de lancer un navigateur Web complet. Il est fortement recommandé de lancer le menu homebrew à travers des applications ou des jeux à la place.

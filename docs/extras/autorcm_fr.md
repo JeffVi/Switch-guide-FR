@@ -1,7 +1,7 @@
 ## AutoRCM
 
 !!! tip "Qu'est-ce que AutoRCM ?"
-	L'AutoRCM pousse la console à croire qu'elle est brick (inutilisable), ce qui la pousse à automatiquement passer en RCM pour être réparée, sans avoir besoin de jig. Puisque le RCM est à l'origine créé pour les réparateurs, c'est une fonctionnalité native de l'appareil, aussi appelé "softbrick". Si vous n'êtes pas prudent, une mauvaise utilisation de l'AutoRCM peut créer de vrais **dégats** sur votre appareil, tout particulièrement s'il s'agit d'un modèle qui ne peut pas recevoir de payload (comme les Mariko). Faites bien attention en utilisant cette fonctionnalité : la consolle ne pourra plus démarrer sans une aide extérieure (vous aurez besoin d'un PC, d'un téléphone, ou de tout autre appareil pouvant injecter un payload).
+	L'AutoRCM pousse la console à croire qu'elle est brick (inutilisable), ce qui la pousse à automatiquement passer en RCM pour être réparée, sans avoir besoin de jig. Puisque le RCM est à l'origine créé pour la maintenace, c'est une fonctionnalité native de l'appareil, aussi appelé "softbrick". Si vous n'êtes pas prudent, une mauvaise utilisation de l'AutoRCM peut créer de vrais **dégats** sur votre appareil, tout particulièrement s'il s'agit d'un modèle qui ne peut pas recevoir de payload (comme les Mariko). Faites bien attention en utilisant cette fonctionnalité : la consolle ne pourra plus démarrer sans une aide extérieure (vous aurez besoin d'un PC, d'un téléphone, ou de tout autre appareil pouvant injecter un payload).
 
 	Note : Si l’écran de la console reste noir lorsque vous appuyez sur le bouton d’alimentation après l’activation d’AutoRCM, n’oubliez pas que c'est normal. La console est en RCM.
 

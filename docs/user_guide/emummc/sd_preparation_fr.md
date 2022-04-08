@@ -46,7 +46,7 @@ Atmosphère possède son propre bootloader (payload), appelé fusée. Pour les b
         Placer le fichier `emummc.txt` de ce guide dans `/atmosphere/hosts` empêchera votre emuMMC (emuNAND) de se connecter à Nintendo. Ne pas le faire entraînera probablement un banissement de la console.
 
     !!! tip ""
-        Votre carte SD devrait ressembler à ça. Le dossier `Nintendo` n'est pas présent si vous n'avez jamais utilisé votre carte SD avec votre Switch.
+        Votre carte SD devrait ressembler à ceci. Le dossier `Nintendo` n'est pas présent si vous n'avez jamais utilisé votre carte SD avec votre Switch.
         ![sdfilesimg](../img/sdfiles.png)
 
 &nbsp;

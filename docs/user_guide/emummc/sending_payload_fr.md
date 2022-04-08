@@ -3,7 +3,7 @@
 # Envoyer un payload
 
 !!! warning "Si vous êtes ici pour tester si votre Switch est patchée"
-    Soyez certain d'être [entré en RCM](entering_rcm_fr.md) et d'avoir téléchargé Hekate (si nécessaire, extraire le dossier zip compressé à la racine de votre carte SD) avant de continuer. Une fois cela fait, si votre console n'est **pas** patchée, continuez sur [Partitionner la SD](partitioning_sd_fr.md).
+    Soyez certain d'être [entré en RCM](entering_rcm_fr.md) et d'avoir téléchargé TegraExplorer avant de continuer. Une fois cela fait, si votre console n'est **pas** patchée, continuez sur [Partitionner la SD](partitioning_sd_fr.md).
 
 
 Maintenant que votre console est en RCM, nous devons lui envoyer un payload. La méthode diffère en fonction des logiciels que vous avez à disposition, mais le principe reste le même.
