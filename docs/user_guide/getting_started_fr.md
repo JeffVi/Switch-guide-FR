@@ -50,10 +50,9 @@ L'information qui suit est basée sur cette [discussion de GBATemp](https://gbat
 | XAJ1 | XAJ10000000000 à XAJ10020000000 | XAJ10020000000 à XAJ10030000000 | XAJ10030000000 et plus |
 | XAJ4 | XAJ40000000000 à XAJ40046000000 | XAJ40046000000 à XAJ40060000000 | XAJ40060000000 et plus |
 | XAJ7 | XAJ70000000000 à XAJ70040000000 | XAJ70040000000 à XAJ70050000000 | XAJ70050000000 et plus |
-| XKW1 | **N/A** | **N/A** | XKW10000000000 et plus |
-| XKJ1 | **N/A** | **N/A** | XKJ10000000000 et plus |
-| XJW1 | **N/A** | **N/A** | XJW01000000000 et plus |
-| XWW1 | **N/A** | **N/A** | XWW01000000000 et plus |
+| XAK1 | **N/A** | XAK10000000000 et plus | **N/A** |
+
+Si votre numéro de série n'est pas listé ci-dessus, votre Switch n'est pas vulnérable.
 
 
 &nbsp;
@@ -86,6 +85,11 @@ L'information qui suit est basée sur cette [discussion de GBATemp](https://gbat
 | 7.0.1          | [**RCM**](rcm_fr.md)               | En attente de CFW          | Cart update to 8.0.1        | **N/A**                |
 | 8.0.1          | [**RCM**](rcm_fr.md)               | En attente de homebrew     | En attente de homebrew      | En attente de homebrew |
 | 8.1.0 - 14.1.1 | [**RCM**](rcm_fr.md)               | Non hackable (aujourd'hui) | Non hackable (aujourd'hui)  | Non hackable (aujourd'hui) |
+
+&nbsp;
+
+!!! note "Modèle OLED"
+    Le modèle de Switche OLED (HEG-001) n'est pas hackable via software.
 
 &nbsp;
 
