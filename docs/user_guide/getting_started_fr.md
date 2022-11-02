@@ -61,7 +61,7 @@ Si votre numéro de série n'est pas listé ci-dessus, votre Switch n'est pas vu
 ### Préparation de la console
 
 !!! danger "Important"
-    Avant de se lancer dans le hack de la console, il est important d'avoir au moins un jeu eShop (comme [Onigiri](https://www.nintendo.com/games/detail/onigiri-switch/)), une application (comme [YouTube](https://www.nintendo.com/games/detail/youtube-switch/ ou [Hulu](https://www.nintendo.com/games/detail/hulu-switch/)), ou une démo (comme [10 Second Run RETURNS](https://www.nintendo.com/games/detail/10-second-run-returns-switch)). Lancer le menu homebrew depuis une cartouche fonctionne également, mais celle-ci doit être insérée. Lancer le menu homebrew ne remplace pas de façon permanente le jeu ou l'application, et il ne devient pas non plus lié à ce jeu ou cette application. Une fois que vous avez au moins un jeu ou une application, vous êtes prêt à continuer.
+    Avant de se lancer dans le hack de la console, il est important d'avoir au moins un jeu eShop (comme [Fallout Shelter](https://www.nintendo.com/games/detail/fallout-shelter-switch/)), une application (comme [YouTube](https://www.nintendo.com/games/detail/youtube-switch/ ou [Hulu](https://www.nintendo.com/games/detail/hulu-switch/)), ou une démo (comme [10 Second Run RETURNS](https://www.nintendo.com/games/detail/10-second-run-returns-switch)). Lancer le menu homebrew depuis une cartouche fonctionne également, mais celle-ci doit être insérée. Lancer le menu homebrew ne remplace pas de façon permanente le jeu ou l'application, et il ne devient pas non plus lié à ce jeu ou cette application. Une fois que vous avez au moins un jeu ou une application, vous êtes prêt à continuer.
 &nbsp;
 
 -----
