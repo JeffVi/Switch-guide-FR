@@ -16,7 +16,7 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 
     Cela peut inclure des éditeurs de sauvegardes, des jeux, des émulateurs et plus encore.
 
-    Une application homebrew peut être exécuté gratuitement sur votre Switch via un CFW tant que vous avez un système de «première génération», avec une version logicielle de 14.1.2 ou moins, et un câble USB-C.
+    Une application homebrew peut être exécuté gratuitement sur votre Switch via un CFW tant que vous avez un système de «première génération», avec un câble USB-C, et ce quelle que soit la version du firmware.
 
 ### Qu’est-ce qu'un Custom Firmware ?
 
@@ -49,7 +49,7 @@ Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo 
 !!! tip ""
     Avant de commencer le guide, vous devez connaître les risques du piratage de la Switch : chaque fois que vous modifiez votre système, il y a toujours le risque d’un brick IRRÉCUPÉRABLE. Ils sont rares, mais il y a toujours toujours une possibilité alors assurez-vous de suivre PRÉCISÉMENT TOUTES les instruction.
 
-    Ce guide porte sur les consoles Switch de première génération dans toutes les régions sur un firmware 14.1.2 ou moins.
+    Ce guide porte sur les consoles Switch de première génération dans toutes les régions quelle que soit la version du firmware de votre console.
 
     Vous aurez besoin **de l’un** des éléments suivants afin de poursuivre avec ce guide :
 
