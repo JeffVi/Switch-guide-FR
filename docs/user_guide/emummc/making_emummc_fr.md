@@ -15,6 +15,9 @@
     5. Cliquez sur `Change emuMMC`, puis sur `SD RAW 1`
     6. Retournez sur le menu principal
 
+!!!warning "Après la création de l'emuMMC"
+    Votre sysMMC et emuMMC ne partagent pas le même dossier Nintendo ! Après avoir créé votre emuMMC, copiez le dossier `Nintendo` à la racine de votre carte sd dans le dossier `emummc\RAW1`.
+
 -----
 
 ### Créer un backup de la NAND

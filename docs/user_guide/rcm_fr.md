@@ -9,14 +9,14 @@ RCM (**R**e**C**overy **M**ode) est un mode pour la Switch qui permet à Nintend
 
 ----
 
-### emuNAND CFW (**Recommandé**)
+### emuNAND CFW (**Recommandé pour les nouveaux utilisateurs**)
 
 !!!tip "Prérequis pour une emuNAND"
 	- Une carte microSD de 64GB ou plus
 
 	#### Avantages d'utiliser l'emuNAND plutôt que le CFW sur la sysNAND :
 	
-	- Utiliser des applications homebrew comme un éditeur de sauvegardes, utiliser des codes de triche dans des jeux hors ligne sans "salir" ou affecter votre sysNAND. Ainsi, votre sysNAND peut être utilisée en ligne sans risque de bannissement de la console.
+	- Utiliser des applications homebrew et des fonctionnalités du CFW dans un environnement qui ne se connectera pas à Nintendo.
 	- Permettre aux pocesseurs des Switches patchées d'utiliser Caffeine pour mettre à jour leur emuNAND et l'utiliser en ligne, tout en gardant leur sysNAND à une version antérieure et vulnérable.
 
 &nbsp;

@@ -29,13 +29,14 @@ Il y a plusieures façons d'accéder au RCM (**R**e**C**overy **M**ode). La plus
 
     !!! snippet "Note"
         Quelques jigs ont le même design qu'un trombone, et héritent donc des risques encourus par la méthode du pont en métal/trombone.
+        Une fois entré en RCM, vous pouvez retirer le jig.
 
     Cette méthode est similaire au pont en métal/trombone, mais elle est beaucoup plus efficace et sûre. Les jigs contiennent un fil de fer qui permet de relier le pin numéro 10 à la terre.
 
     !!! tip ""
         ![switchjigs.com jigs](../img/entering_rcm_jig.jpg)
 		
-	Dans le cas où vous souhaiteriez créer votre propre jig, cette image montre nes numéros des pins. Faites attention à ce que votre jig ne touche JAMAIS le pin 4, celui-ci envoie une tension de 5V pour alimenter le joycon. S'il est connecté à un autre pin, vous allez griller votre console.
+	Dans le cas où vous souhaiteriez créer votre propre jig, cette image montre les numéros des pins. Faites attention à ce que votre jig ne touche JAMAIS le pin 4, celui-ci envoie une tension de 5V pour alimenter le joycon. S'il est connecté à un autre pin, vous allez griller votre console.
 
 	!!! tip ""
 		![Console Numbered Pads Refrence](../img/entering_rcm_pads_numbered.jpg)

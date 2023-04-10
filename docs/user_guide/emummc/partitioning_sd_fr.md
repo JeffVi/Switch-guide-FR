@@ -4,7 +4,7 @@
 	Cela supprimera toutes vos données de votre carte microSD, soyez averti !
 
 !!! warning "Sauvegardez votre dossier Nintendo"
-	Avant de commencer, si vous utilisez déjà une carte microSD comme moyen stockage pour vos jeux, vous devriez déplacer le dossier `Nintendo` de la racine de votre carte SD vers votre ordinateur. Ce dossier contient vos jeux téléchargés et les mises à jour.
+	Avant de commencer, si vous utilisez déjà une carte microSD comme moyen stockage pour vos jeux, vous devriez déplacer le dossier `Nintendo` de la racine de votre carte SD vers votre ordinateur. Ce dossier contient vos jeux téléchargés et les mises à jour. Après avoir créé une emuMMC, vous aurez deux fichier Nintendo : l'un pour votre sysMMC et l'autre pour votre emuMMC.
 
 -----
 
