@@ -1,5 +1,8 @@
 <a href="https://discord.gg/C29hYvh" target="_blank"><img style="float: right;" src="img/discord.png"></a>
 
+# **CETTE VERSION N'A PAS ÉTÉ MISE À JOUR DEPUIS PLUS D'UN AN !!! UTILISEZ LA VERSION ORIGINALE [ICI !!!](https://switch.hacks.guide/) (NON TRADUITE)**
+Ce guide traduit en français sera mis à jour...
+
 # NH Switch Guide
 
 Un guide collaboratif de la communauté des "Helpers" et du "Staff" de Nintendo Homebrew, traduit par un "Fantastic Dreamer". *From stock to Atmosphère !*
